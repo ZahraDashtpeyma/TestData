@@ -1,0 +1,12 @@
+[
+  {
+    "CityID": 1,
+    "CityName": "lar",
+    "LatestRecordedPopulation": 150
+  },
+  {
+    "CityID": 2,
+    "CityName": "shiraz",
+    "LatestRecordedPopulation": 120
+  }
+]
