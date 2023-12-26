@@ -1,0 +1,14 @@
+[
+  {
+    "div_name": "Paris",
+    "data_lon": 2.351828000000000e+000,
+    "data_lat": 4.885657800000000e+001,
+    "data_zoom": 9,
+    "data_animation": "flyto",
+    "header_name": "پاریس",
+    "data_title": "Paris",
+    "src": "https:\/\/github.com\/ZahraDashtpeyma\/Images\/blob\/main\/download.jpg?raw=true",
+    "text_details": "Paris is the capital and most populous city of France, with an area of 105 square kilometres (41 square miles) and a population of 2,206,488. Since the 17th century, Paris has been one of Europe's major centres of finance, commerce, fashion, science, and the arts.",
+    "scr_pdf": "https:\/\/github.com\/ZahraDashtpeyma\/Images\/blob\/main\/download.jpg?raw=true"
+  }
+]
