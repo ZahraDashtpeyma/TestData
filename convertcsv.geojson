@@ -1,0 +1,6930 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.483814,29.571266 ]
+    },
+    "properties": {
+    "id":2,
+    "adrr":"شیراز- بلوار روزبهان- روزبهان 11- میخک- بین  میخک 1 و نسترن",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.479555,29.573085 ]
+    },
+    "properties": {
+    "id":9,
+    "adrr":"شیراز- شکوفه- حاج مکتبی- مکتبی 10",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.483632,29.571456 ]
+    },
+    "properties": {
+    "id":2,
+    "adrr":"شیراز- بلوار روزبهان- ارغوان",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.479064,29.575569 ]
+    },
+    "properties": {
+    "id":4,
+    "adrr":"شیراز- شکوفه- بستامی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.505337,29.577207 ]
+    },
+    "properties": {
+    "id":10,
+    "adrr":"شیراز- بلوار عدالت جنوبی- بین عدالت 60 و 62",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.50563,29.588962 ]
+    },
+    "properties": {
+    "id":13,
+    "adrr":"شیراز- بلوار عدالت جنوبی- شهید عابدی- بین عابدی 1 و فتح المبین",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.499973,29.582861 ]
+    },
+    "properties": {
+    "id":15,
+    "adrr":"شیراز- عملیات رمضان- رمضان 7",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.487129,29.587664 ]
+    },
+    "properties": {
+    "id":22,
+    "adrr":"شیراز- بلوار سفیر جنوبی- امام خمینی- بین امام خمینی 11 و 13",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.487302,29.589586 ]
+    },
+    "properties": {
+    "id":23,
+    "adrr":"شیراز- بلوار صلح- بین صلح 2 و میدان مهارت",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.491444,29.599256 ]
+    },
+    "properties": {
+    "id":24,
+    "adrr":"شیراز- بلوار پاسارگاد غربی- سراج- بین سراج 2 الف و سراج 2 ب",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.480697,29.599442 ]
+    },
+    "properties": {
+    "id":26,
+    "adrr":"شیراز- بلوار زاگرس شرقی- زاگرس شرقی 2- زاگرس شرقی 2/11",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.473532,29.602031 ]
+    },
+    "properties": {
+    "id":30,
+    "adrr":"شیراز- شهید فرزدقی جنوبی- فرزدقی جنوبی 19",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.462301,29.596552 ]
+    },
+    "properties": {
+    "id":31,
+    "adrr":"شیراز- یاوران شرقی- شهدای احمدآباد- شهدای احمدآباد 15",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.463763,29.600634 ]
+    },
+    "properties": {
+    "id":33,
+    "adrr":"شیراز- ذوالفقار جنوبی- ذوالفقار جنوبی 5",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.458313,29.60345 ]
+    },
+    "properties": {
+    "id":37,
+    "adrr":"شیراز- بلوار فجر جنوبی- فجر جنوبی 2",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.45441,29.603907 ]
+    },
+    "properties": {
+    "id":38,
+    "adrr":"شیراز- یاوران غربی- یاوران غربی 14- 3/8 فجر غربی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.454494,29.616532 ]
+    },
+    "properties": {
+    "id":40,
+    "adrr":"شیراز- بلواروالفجر- جماران 5",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.468043,29.58967 ]
+    },
+    "properties": {
+    "id":42,
+    "adrr":"شیراز- بلوار کیومرث پور بهمن- پوربهمن 22",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.459414,29.601493 ]
+    },
+    "properties": {
+    "id":44,
+    "adrr":"شیراز- یاوران غربی- یاوران غربی 6- فجر شرقی 3/13",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.477985,29.599057 ]
+    },
+    "properties": {
+    "id":46,
+    "adrr":"شیراز- شهید باهنر جنوبی- بلوار زاگرس شرقی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.489205,29.608011 ]
+    },
+    "properties": {
+    "id":47,
+    "adrr":"شیراز- بلوار رحمت غربی- صفایی شمالی- فراز- بین فراز 2 و 3",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.489661,29.603971 ]
+    },
+    "properties": {
+    "id":49,
+    "adrr":"شیراز- بلوار رحمت غربی- صفایی جنوبی- صفایی جنوبی 3",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.503178,29.603369 ]
+    },
+    "properties": {
+    "id":52,
+    "adrr":"شیراز- بلوار رحمت غربی- صفایی جنوبی- صفایی جنوبی 3",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.486087,29.617335 ]
+    },
+    "properties": {
+    "id":64,
+    "adrr":"شیراز- شهید باهنر شمالی- کند رو باهنر شمالی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.479081,29.615863 ]
+    },
+    "properties": {
+    "id":65,
+    "adrr":"شیراز- بلوار امیرکبیر- شهید فلاحی- فلاحی 22",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.505114,29.615658 ]
+    },
+    "properties": {
+    "id":68,
+    "adrr":"شیراز- سرباز- 26 سرباز- بین 20 اعتمادی و 9 شبان",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.487296,29.614735 ]
+    },
+    "properties": {
+    "id":69,
+    "adrr":"شیراز- بلوار استقلال- بلوارباغ حوض- باغ حوض 5- باغ حوض 5/14",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.488915,29.61354 ]
+    },
+    "properties": {
+    "id":70,
+    "adrr":"شیراز- کند رو باهنر شمالی- باهنر شمالی 9- باغ حوض 3/5",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.463985,29.628665 ]
+    },
+    "properties": {
+    "id":71,
+    "adrr":"شیراز- ایمان جنوبی- ایمان جنوبی 9- شیخی- گلچین غربی 13- بین گلچین 9/4 و 9/6",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.463422,29.62783 ]
+    },
+    "properties": {
+    "id":73,
+    "adrr":"شیراز- گلچین غربی- گلچین غربی 24- گلچین غربی 24/1",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.477109,29.618053 ]
+    },
+    "properties": {
+    "id":75,
+    "adrr":"شیراز- بلوار امیرکبیر- بلوار کاج- کاج 10",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.511412,29.606722 ]
+    },
+    "properties": {
+    "id":74,
+    "adrr":"شیراز- بلوار امیرکبیر- شهیدافشاریان- 2",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.443926,29.6064 ]
+    },
+    "properties": {
+    "id":78,
+    "adrr":"شیراز- بلوار سجادیه- سجادیه 26",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.443943,29.606301 ]
+    },
+    "properties": {
+    "id":77,
+    "adrr":"شیراز- بلوار طلاییه- بین عصر ایران و یاوران",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.44915,29.615303 ]
+    },
+    "properties": {
+    "id":79,
+    "adrr":"شیراز- بلوار امیر کبیر- جماران- جماران 16",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.457744,29.631854 ]
+    },
+    "properties": {
+    "id":81,
+    "adrr":"شیراز- ایمان جنوبی- ایمان جنوبی 5",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.463577,29.627893 ]
+    },
+    "properties": {
+    "id":83,
+    "adrr":"شیراز- کمربندی شیراز- شهدای کشن- گل آرا- گل آرا 1- بین گلچین 13 و 24/2",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.454772,29.616752 ]
+    },
+    "properties": {
+    "id":85,
+    "adrr":"شیراز- بلواروالفجر- جماران 5",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.478524,29.615866 ]
+    },
+    "properties": {
+    "id":87,
+    "adrr":"شیراز- بلوار امیرکبیر- بلوار کاج",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.518664,29.607635 ]
+    },
+    "properties": {
+    "id":89,
+    "adrr":"شیراز- انقلاب اسلامی- بین انقلاب اسلامی 32 و 34",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.500849,29.613366 ]
+    },
+    "properties": {
+    "id":90,
+    "adrr":"شیراز- بلوار استقلال- شبان- 10 شبان- بین 10/4 شبان و 10/2 شبان",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.486465,29.5986 ]
+    },
+    "properties": {
+    "id":92,
+    "adrr":"شیراز- بلوار پاسارگاد غربی- پاسارگاد غربی 6- پاسارگاد غربی 6/2",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.555601,29.632492 ]
+    },
+    "properties": {
+    "id":93,
+    "adrr":"شیراز- بلوار ربانی- 13 ربانی- بین ربانی 11 و 15 ربانی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.555008,29.626218 ]
+    },
+    "properties": {
+    "id":95,
+    "adrr":"شیراز- حافظ- بین سیلو و جاوید",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.548815,29.624129 ]
+    },
+    "properties": {
+    "id":96,
+    "adrr":"شیراز- بلوار هجرت- بین ساحلی و هجرت 10",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.483565,29.571296 ]
+    },
+    "properties": {
+    "id":1,
+    "adrr":"شیراز- بلوار روزبهان- ارغوان- بین پیچک و میخک",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.479537,29.573269 ]
+    },
+    "properties": {
+    "id":8,
+    "adrr":"شیراز",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.50424,29.596458 ]
+    },
+    "properties": {
+    "id":20,
+    "adrr":"شیراز- بیست متری امام خمینی- امام خمینی 40- بین امام خمینی 42 و 44",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.470304,29.607711 ]
+    },
+    "properties": {
+    "id":34,
+    "adrr":"شیراز- کمربندی شیراز- خادم صادق- بین خادم صادق 9 و 11",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.510844,29.612758 ]
+    },
+    "properties": {
+    "id":56,
+    "adrr":"شیراز- بلوار بهشتی- شهید اعتمادی- بین اعتمادی 12 و شهدای هوابرد",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.511046,29.61356 ]
+    },
+    "properties": {
+    "id":57,
+    "adrr":"شیراز- بلوار بهشتی- شهید اعتمادی- اعتمادی 10",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.549051,29.623271 ]
+    },
+    "properties": {
+    "id":97,
+    "adrr":"شیراز- ساحلی شرقی- بعد از بلوار هجرت",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.545374,29.627211 ]
+    },
+    "properties": {
+    "id":99,
+    "adrr":"شیراز- بلوار قدس- حر- بین حر 2 و 7",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.542713,29.628259 ]
+    },
+    "properties": {
+    "id":100,
+    "adrr":"شیراز- سمیه- حدادی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.542875,29.629179 ]
+    },
+    "properties": {
+    "id":101,
+    "adrr":"شیراز- سمیه- بین سمیه 4 و حدادی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.543479,29.631417 ]
+    },
+    "properties": {
+    "id":102,
+    "adrr":"شیراز- بلوار قدس",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.538536,29.636599 ]
+    },
+    "properties": {
+    "id":105,
+    "adrr":"شیراز- ابریشمی- یزدان مهر- یزدان مهر 3- بین یزدان مهر4  و 3/1",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.536739,29.640803 ]
+    },
+    "properties": {
+    "id":107,
+    "adrr":"شیراز- بلوار جمهوری اسلامی- کوهسار",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.524578,29.638426 ]
+    },
+    "properties": {
+    "id":108,
+    "adrr":"شیراز- بزرگراه سردار سلیمانی- بلوار جمهوری اسلامی- تقاطع بلوار دانشگاه",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.528328,29.629762 ]
+    },
+    "properties": {
+    "id":113,
+    "adrr":"شیراز- بلوار کریمخان زند- عباییان- ساحلی غربی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.51205,29.636133 ]
+    },
+    "properties": {
+    "id":114,
+    "adrr":"شیراز- بلوار شهید چمران- ابیوردی دوم",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.506829,29.633113 ]
+    },
+    "properties": {
+    "id":117,
+    "adrr":"شیراز- قصردشت- بین قصردشت 46 و 48",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.513901,29.623306 ]
+    },
+    "properties": {
+    "id":119,
+    "adrr":"شیراز- قصردشت- قصردشت 35",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.514012,29.628278 ]
+    },
+    "properties": {
+    "id":121,
+    "adrr":"شیراز- خیابان ملاصدرا- خلیلی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.530211,29.626029 ]
+    },
+    "properties": {
+    "id":123,
+    "adrr":"شیراز- بلوار کریمخان زند- کریمخان زند 46- عباییان 4- بین عباییان 4/10 و 4/12",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.527895,29.620184 ]
+    },
+    "properties": {
+    "id":125,
+    "adrr":"شیراز- قصردشت- ابتدای قصردشت",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.522697,29.618694 ]
+    },
+    "properties": {
+    "id":126,
+    "adrr":"شیراز- مشیر غربی- مشیر غربی 7- بین مشیر 7/7 و 7/9",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.521486,29.623257 ]
+    },
+    "properties": {
+    "id":129,
+    "adrr":"شیراز- قصردشت- قصردشت 16",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.519406,29.623633 ]
+    },
+    "properties": {
+    "id":130,
+    "adrr":"شیراز- قصردشت- بین فلسطین و قصردشت 25",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.52356,29.626517 ]
+    },
+    "properties": {
+    "id":131,
+    "adrr":"شیراز- هفت تیر- معدل غربی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.505389,29.623655 ]
+    },
+    "properties": {
+    "id":133,
+    "adrr":"شیراز- بلوار ستارخان- شهید عرفان منش- بین 5 عرفان منش و 7 عرفان منش",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.503398,29.628844 ]
+    },
+    "properties": {
+    "id":136,
+    "adrr":"شیراز- عفیف‌آباد- 14 عفیف آباد- 14/1 عفیف آباد- 59/16 قصردشت",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.503252,29.628755 ]
+    },
+    "properties": {
+    "id":137,
+    "adrr":"شیراز- عفیف‌آباد- 14 عفیف آباد- 14/1 عفیف آباد",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.501899,29.631828 ]
+    },
+    "properties": {
+    "id":138,
+    "adrr":"شیراز- ولیعصر- 12 ولیعصر",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.503179,29.634865 ]
+    },
+    "properties": {
+    "id":140,
+    "adrr":"شیراز- قصردشت- 63 قصردشت- 63/1 قصردشت",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.495622,29.631489 ]
+    },
+    "properties": {
+    "id":143,
+    "adrr":"شیراز- بلوار ستارخان- 18 ستارخان- 18/1 ستارخان",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.489226,29.631802 ]
+    },
+    "properties": {
+    "id":145,
+    "adrr":"شیراز- بلوار شهید مطهری شمالی- تلخداش- بین کوچه 3 تلخداش و کوچه 8 تلخداش",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.505882,29.616414 ]
+    },
+    "properties": {
+    "id":148,
+    "adrr":"شیراز- بلوار استقلال- بین استقلال 20 و سرباز",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.49831,29.61687 ]
+    },
+    "properties": {
+    "id":150,
+    "adrr":"شیراز- بلوار استقلال- بین استقلال 34 و 36",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.544308,29.630397 ]
+    },
+    "properties": {
+    "id":151,
+    "adrr":"شیراز- بلوار قدس- قدس 14",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.528971,29.626591 ]
+    },
+    "properties": {
+    "id":152,
+    "adrr":"شیراز- بلوار کریمخان زند- بین لاین اتوبوس و کریمخان زند 48",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.523362,29.607986 ]
+    },
+    "properties": {
+    "id":155,
+    "adrr":"شیراز- فخرآباد غربی- بهار",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.524812,29.607615 ]
+    },
+    "properties": {
+    "id":156,
+    "adrr":"شیراز- انقلاب اسلامی- شمس تبریزی- بین شمس تبریزی 27 و چهارده متری تحویلی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.520915,29.607257 ]
+    },
+    "properties": {
+    "id":158,
+    "adrr":"شیراز- انقلاب اسلامی- شمس تبریزی- بین شمس تبریزی 9 و 11",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.525445,29.611499 ]
+    },
+    "properties": {
+    "id":159,
+    "adrr":"شیراز- وصال شیرازی جنوبی- وصال جنوبی 3",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.531638,29.613457 ]
+    },
+    "properties": {
+    "id":162,
+    "adrr":"شیراز- وصال شیرازی شمالی- خیابان منوچهری- بین منوچهری 10 و 12",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.53221,29.61 ]
+    },
+    "properties": {
+    "id":164,
+    "adrr":"شیراز- قاآنی شمالی- قاآنی شمالی 2",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.526001,29.607686 ]
+    },
+    "properties": {
+    "id":166,
+    "adrr":"شیراز- قاآنی شمالی- شمس تبریزی- بین شمس تبریزی 33 و 35",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.547639,29.620884 ]
+    },
+    "properties": {
+    "id":169,
+    "adrr":"شیراز- بلوار هجرت- فردوسی- بین فردوسی 2 و 3",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.55872,29.595661 ]
+    },
+    "properties": {
+    "id":174,
+    "adrr":"شیراز- بلوار الزهرا- بین خیابان نرجس و بهداشت",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.55215,29.598497 ]
+    },
+    "properties": {
+    "id":177,
+    "adrr":"شیراز- بلوار سیبویه",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.479501,29.573191 ]
+    },
+    "properties": {
+    "id":9,
+    "adrr":"شیراز- شکوفه- حاج مکتبی- مکتبی 10",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.504445,29.57269 ]
+    },
+    "properties": {
+    "id":10,
+    "adrr":"شیراز- میرزائی- بلوار قهرمانان",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.468737,29.569628 ]
+    },
+    "properties": {
+    "id":1,
+    "adrr":"شیراز",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.504032,29.596552 ]
+    },
+    "properties": {
+    "id":19,
+    "adrr":"شیراز- بلوار رحمت غربی- رحمت غربی 5",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.465294,29.598833 ]
+    },
+    "properties": {
+    "id":32,
+    "adrr":"شیراز- یاوران غربی- بین یاوران 1 و 3",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.461796,29.605818 ]
+    },
+    "properties": {
+    "id":41,
+    "adrr":"شیراز- بلوار فجر شرقی- فجر شرقی 4- فجر شرقی 4/3",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.474885,29.623342 ]
+    },
+    "properties": {
+    "id":60,
+    "adrr":"شیراز- بلوار شهید مطهری جنوبی- - مبعث 16 - گلچین شرقی 7",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.451479,29.617433 ]
+    },
+    "properties": {
+    "id":76,
+    "adrr":"شیراز- بلوار امیر کبیر- امیرکبیر 41",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.441791,29.619128 ]
+    },
+    "properties": {
+    "id":91,
+    "adrr":"شیراز- بلوار امیر کبیر- بلوار مهدیه- مهدیه 1",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.543952,29.637548 ]
+    },
+    "properties": {
+    "id":104,
+    "adrr":"شیراز- بلوار جمهوری اسلامی- ابریشمی 10",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.512329,29.636406 ]
+    },
+    "properties": {
+    "id":116,
+    "adrr":"شیراز- بلوار شهید چمران- ابیوردی دوم- بین ابیوردی دوم 1 و 2",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.49827,29.633451 ]
+    },
+    "properties": {
+    "id":141,
+    "adrr":"شیراز- بلوار شهید مطهری شمالی- 15 مطهری شمالی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.510985,29.627267 ]
+    },
+    "properties": {
+    "id":153,
+    "adrr":"شیراز- قصردشت- شهید سید سعید حسینی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.562755,29.601839 ]
+    },
+    "properties": {
+    "id":182,
+    "adrr":"شیراز- مدرس- مدرس 20",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.56474,29.599794 ]
+    },
+    "properties": {
+    "id":183,
+    "adrr":"شیراز- بلوار مدرس- بین مدرس 16 و 18",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.548973,29.605072 ]
+    },
+    "properties": {
+    "id":184,
+    "adrr":"شیراز- شیخ روزبهان- بین 2 و آستانه 13",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.546061,29.600093 ]
+    },
+    "properties": {
+    "id":186,
+    "adrr":"شیراز- بلوار سیبویه- حسینی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.546568,29.600095 ]
+    },
+    "properties": {
+    "id":188,
+    "adrr":"شیراز- بلوار سیبویه- حسینی- حسینی الف",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.541821,29.602701 ]
+    },
+    "properties": {
+    "id":191,
+    "adrr":"شیراز- بلوار سیبویه- کوچه امامزاده ابراهیم- بین 16/6 و 16/4",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.538221,29.603151 ]
+    },
+    "properties": {
+    "id":193,
+    "adrr":"شیراز- بلوار احمدی شمالی- نصیری",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.543372,29.611726 ]
+    },
+    "properties": {
+    "id":192,
+    "adrr":"شیراز- لطفعلی خان زند- احمدی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.533576,29.607778 ]
+    },
+    "properties": {
+    "id":194,
+    "adrr":"شیراز- بلوار سیبویه- کارگر",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.53422,29.608921 ]
+    },
+    "properties": {
+    "id":196,
+    "adrr":"شیراز- بلوار سیبویه- بازارچه دروازه کازرون",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.533604,29.612651 ]
+    },
+    "properties": {
+    "id":197,
+    "adrr":"شیراز- قاآنی شمالی- خیابان منوچهری- بین منوچهری 4 و منوچهری 6",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.540116,29.613403 ]
+    },
+    "properties": {
+    "id":198,
+    "adrr":"شیراز- بلوار سیبویه- بازارچه دروازه کازرون- سنگ سیاه",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.540963,29.612217 ]
+    },
+    "properties": {
+    "id":199,
+    "adrr":"شیراز- کریمخان زند- پیروزی- بلوار دستغیب",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.544152,29.609524 ]
+    },
+    "properties": {
+    "id":201,
+    "adrr":"شیراز- لطفعلی خان زند- لطفعلی خان 47",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.543069,29.610247 ]
+    },
+    "properties": {
+    "id":203,
+    "adrr":"شیراز",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.54254,29.609427 ]
+    },
+    "properties": {
+    "id":204,
+    "adrr":"شیراز- بلوار سیبویه- حضرتی- بلوار 9 دی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.537872,29.604079 ]
+    },
+    "properties": {
+    "id":206,
+    "adrr":"شیراز- بلوار سیبویه- نرسیده به بلوار احمدی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.543849,29.618129 ]
+    },
+    "properties": {
+    "id":207,
+    "adrr":"شیراز- بلوار هجرت- بین هجرت 1 و میدان شهدا",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.554709,29.609233 ]
+    },
+    "properties": {
+    "id":212,
+    "adrr":"شیراز- بلوار زینبیه- بین بلوار کریمخان زند و 4",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.554709,29.609606 ]
+    },
+    "properties": {
+    "id":213,
+    "adrr":"شیراز- بلوار کریمخان زند- کریمخان 3- بین بلوار زینبیه و 4",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.539194,29.600057 ]
+    },
+    "properties": {
+    "id":215,
+    "adrr":"شیراز- بلوار احمدی شمالی- احمدی شمالی 4",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.543558,29.596359 ]
+    },
+    "properties": {
+    "id":218,
+    "adrr":"شیراز- بلوار سیبویه- شاه داعی الله- شاه داعی الله 13- مفتح 7",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.552469,29.596052 ]
+    },
+    "properties": {
+    "id":221,
+    "adrr":"شیراز- بلوار دلاوران بسیج- دلاوران بسیج 34",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.552469,29.596052 ]
+    },
+    "properties": {
+    "id":222,
+    "adrr":"شیراز- بلوار دلاوران بسیج- دلاوران بسیج 34",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.568726,29.584964 ]
+    },
+    "properties": {
+    "id":225,
+    "adrr":"شیراز- بلوار رازی- فدک- فدک 11",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.569445,29.574609 ]
+    },
+    "properties": {
+    "id":226,
+    "adrr":"شیراز- بلوار رحمت شرقی- 21/2",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.570385,29.585675 ]
+    },
+    "properties": {
+    "id":228,
+    "adrr":"شیراز- بلوار رازی- رازی 2- 13",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.573905,29.577752 ]
+    },
+    "properties": {
+    "id":229,
+    "adrr":"شیراز- بلوار رحمت شرقی- فدک- بین خیابان فضل آباد و فدک 10",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.494683,29.602757 ]
+    },
+    "properties": {
+    "id":231,
+    "adrr":"شیراز- بلوار سفیر شمالی- بلوار رحمت غربی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.570423,29.588052 ]
+    },
+    "properties": {
+    "id":232,
+    "adrr":"شیراز- بلوار رازی- بین فدک و رازی 2",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.560109,29.584665 ]
+    },
+    "properties": {
+    "id":235,
+    "adrr":"شیراز- بلوار رحمت شرقی- شاهزاده بیگم- شهید ظریف- بین ظریف 5 و 7",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.567878,29.592384 ]
+    },
+    "properties": {
+    "id":236,
+    "adrr":"شیراز- بلوار الزهرا- بین الزهرا 6 و 8",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.578203,29.581316 ]
+    },
+    "properties": {
+    "id":237,
+    "adrr":"شیراز- بلوار مدرس- بین خیابان شهید آرامی و خیابان فضل آباد",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.584896,29.571132 ]
+    },
+    "properties": {
+    "id":239,
+    "adrr":"شیراز- بلوار مدرس- دشت چنار- دشت چنار 1",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.591866,29.552527 ]
+    },
+    "properties": {
+    "id":242,
+    "adrr":"شیراز- بلوار مدرس- دکتر شاهچراغی- تقاطع 5",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.479435,29.575399 ]
+    },
+    "properties": {
+    "id":5,
+    "adrr":"شیراز- شکوفه- حاج مکتبی- مکتبی الف 1",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.512171,29.600192 ]
+    },
+    "properties": {
+    "id":11,
+    "adrr":"شیراز- بلوار عدالت شمالی- بین عدالت 14 و 16",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.484408,29.594941 ]
+    },
+    "properties": {
+    "id":27,
+    "adrr":"شیراز- بلوار زاگرس شرقی- پاییز- پاییز 10",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.469943,29.606764 ]
+    },
+    "properties": {
+    "id":35,
+    "adrr":"شیراز- شهید فرزدقی جنوبی- فرزدقی جنوبی 12- موسوی نژاد- موسوی نژاد 13",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.454494,29.616532 ]
+    },
+    "properties": {
+    "id":40,
+    "adrr":"شیراز- بلواروالفجر- جماران 5",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.498291,29.609612 ]
+    },
+    "properties": {
+    "id":48,
+    "adrr":"شیراز- بلوار امیرکبیر- امیرکبیر 12- بین 12/3 امیرکبیر و 12/1 امیرکبیر",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.505637,29.616422 ]
+    },
+    "properties": {
+    "id":66,
+    "adrr":"شیراز- بلوار استقلال- بین استقلال 20 و سرباز",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.454739,29.616781 ]
+    },
+    "properties": {
+    "id":84,
+    "adrr":"شیراز- بلواروالفجر- جماران 5",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.530923,29.632686 ]
+    },
+    "properties": {
+    "id":109,
+    "adrr":"شیراز- بلوار ارم- ارم 13",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.535386,29.630334 ]
+    },
+    "properties": {
+    "id":111,
+    "adrr":"شیراز- بلوار آزادی- آزادی 21",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.529971,29.6224 ]
+    },
+    "properties": {
+    "id":124,
+    "adrr":"شیراز- انقلاب اسلامی- معدل شرقی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.501708,29.632721 ]
+    },
+    "properties": {
+    "id":139,
+    "adrr":"شیراز- ولیعصر- 12 ولیعصر",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.525634,29.608679 ]
+    },
+    "properties": {
+    "id":157,
+    "adrr":"شیراز- فخرآباد شرقی- فخرآباد شرقی 20",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.554393,29.598718 ]
+    },
+    "properties": {
+    "id":178,
+    "adrr":"شیراز- بلوار زینبیه- زینبیه 5- شهيد شجاعی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.554368,29.602431 ]
+    },
+    "properties": {
+    "id":180,
+    "adrr":"شیراز- بلوار زینبیه",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.539955,29.599316 ]
+    },
+    "properties": {
+    "id":216,
+    "adrr":"شیراز- بلوار سیبویه- شاه داعی الله",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.562392,29.583493 ]
+    },
+    "properties": {
+    "id":234,
+    "adrr":"شیراز- بلوار رحمت شرقی- شاهزاده بیگم- شاهزاده بیگم 13- ظریف 9",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.591969,29.55243 ]
+    },
+    "properties": {
+    "id":243,
+    "adrr":"شیراز- بلوار مدرس- دکتر شاهچراغی- تقاطع 5",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.583901,29.559194 ]
+    },
+    "properties": {
+    "id":244,
+    "adrr":"شیراز- بلوار احمد ابن موسی- بلوار ابوذر غفاری- بلوار محراب",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.577848,29.597258 ]
+    },
+    "properties": {
+    "id":246,
+    "adrr":"شیراز- بلوار فضیلت جنوبی- شاهیجان شرقی- بلوار باران",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.569048,29.595669 ]
+    },
+    "properties": {
+    "id":248,
+    "adrr":"شیراز- بلوار فضیلت جنوبی- فضیلت1",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.575311,29.608045 ]
+    },
+    "properties": {
+    "id":249,
+    "adrr":"شیراز- بلوار فضیلت جنوبی- فضیلت 26- 8 کسری- کسری",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.589675,29.586824 ]
+    },
+    "properties": {
+    "id":250,
+    "adrr":"شیراز- بلوار سرداران- سرداران 61",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.585094,29.590606 ]
+    },
+    "properties": {
+    "id":255,
+    "adrr":"شیراز- شهدای حج- بلوار کرمی- بین کرمی 5 و عباسی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.584716,29.59039 ]
+    },
+    "properties": {
+    "id":256,
+    "adrr":"شیراز- آزادگان- آزادگان 8- عباسی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.590673,29.583333 ]
+    },
+    "properties": {
+    "id":259,
+    "adrr":"شیراز- بلوار سرداران- سرداران 28",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.593473,29.584163 ]
+    },
+    "properties": {
+    "id":263,
+    "adrr":"شیراز- بلوار سرداران- فیجانی- بین فیجانی 2 و 4",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.604749,29.582523 ]
+    },
+    "properties": {
+    "id":264,
+    "adrr":"شیراز- بلوار تخت جمشید غربی- بلوار جانبازان",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.603301,29.582081 ]
+    },
+    "properties": {
+    "id":267,
+    "adrr":"شیراز- تخت جمشید غربی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.603692,29.579725 ]
+    },
+    "properties": {
+    "id":268,
+    "adrr":"شیراز- بلوار تخت جمشید غربی- اقبال لاهوری شمالی 2- سینا شرقی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.595586,29.57733 ]
+    },
+    "properties": {
+    "id":270,
+    "adrr":"شیراز- خیابان شهید بنیانی(بیست متری پنجم)- بلوار پروین اعتصامی- بین قدسی شیرازی و بلوار جانبازان",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.601249,29.568931 ]
+    },
+    "properties": {
+    "id":273,
+    "adrr":"شیراز- بلوار شیرودی- نرسیده به میدان فرصت شیرازی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.588579,29.572199 ]
+    },
+    "properties": {
+    "id":275,
+    "adrr":"شیراز- سرداران- مردانی غربی- مردانی شرقی- مردانی شرقی 8",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.613552,29.580361 ]
+    },
+    "properties": {
+    "id":278,
+    "adrr":"شیراز- بلوار رسول اعظم- بلوار فرصت شیرازی- بین فرصت شیرازی 41 و 43",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.633316,29.566072 ]
+    },
+    "properties": {
+    "id":280,
+    "adrr":"شیراز- بلوار تخت جمشید شرقی- - مائده- شهید سیاوش شیخی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.615703,29.579285 ]
+    },
+    "properties": {
+    "id":281,
+    "adrr":"شیراز- بلوار فرصت شیرازی- فرصت شیرازی 43- تخت جمشید غربی 12/9",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.598989,29.56003 ]
+    },
+    "properties": {
+    "id":284,
+    "adrr":"شیراز- بلوار مدرس- شهید عباس دوران- بین دوران 7 و 9",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.600768,29.560556 ]
+    },
+    "properties": {
+    "id":287,
+    "adrr":"شیراز- بلوار شیرودی- شهید عباس دوران- بین شهید عباس دوران8 و 10",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.604712,29.563246 ]
+    },
+    "properties": {
+    "id":288,
+    "adrr":"شیراز- بلوار شیرودی- شهید عباس دوران",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.608017,29.563026 ]
+    },
+    "properties": {
+    "id":289,
+    "adrr":"شیراز- بلوار شیرودی- شهید عباس دوران- سهل آباد",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.60812,29.562881 ]
+    },
+    "properties": {
+    "id":290,
+    "adrr":"شیراز- بلوار شیرودی- شهید عباس دوران- سهل آباد",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.605757,29.562753 ]
+    },
+    "properties": {
+    "id":291,
+    "adrr":"شیراز- بلوار شیرودی- شیرودی 23- بین دوران 13/1 و شهید عباس دوران",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.606524,29.56845 ]
+    },
+    "properties": {
+    "id":292,
+    "adrr":"شیراز- بلوار فرصت شیرازی- فاضل- بین دانا و فاضل 16",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.609463,29.561507 ]
+    },
+    "properties": {
+    "id":293,
+    "adrr":"شیراز- بلوار شیرودی- شهید عباس دوران- سهل آباد- بین استادیان 8 و 9",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.632595,29.505651 ]
+    },
+    "properties": {
+    "id":298,
+    "adrr":"فارس- شهرستان شیراز- خلیج فارس- دانش",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.479498,29.57313 ]
+    },
+    "properties": {
+    "id":9,
+    "adrr":"شیراز",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.479442,29.573249 ]
+    },
+    "properties": {
+    "id":8,
+    "adrr":"شیراز- شکوفه- حاج مکتبی- بین مکتبی 5 و 7",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.483776,29.571276 ]
+    },
+    "properties": {
+    "id":1,
+    "adrr":"شیراز- بلوار روزبهان- روزبهان 11- میخک- بین  میخک 1 و نسترن",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.480309,29.572635 ]
+    },
+    "properties": {
+    "id":3,
+    "adrr":"شیراز- شکوفه- بنفشه",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.498368,29.590276 ]
+    },
+    "properties": {
+    "id":12,
+    "adrr":"شیراز- بیست متری امام خمینی- دستغیب- دستغیب 20- بین دستغیب 20/6 و 20/8",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.506063,29.587137 ]
+    },
+    "properties": {
+    "id":14,
+    "adrr":"شیراز- بلوار عدالت جنوبی- عدالت جنوبی 38- بین عدالت 38 و 40",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.505114,29.583628 ]
+    },
+    "properties": {
+    "id":17,
+    "adrr":"شیراز- بلوار عدالت جنوبی- عدالت جنوبی 50- بیت المقدس 5",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.505109,29.583715 ]
+    },
+    "properties": {
+    "id":16,
+    "adrr":"شیراز- بلوار عدالت جنوبی- بیت المقدس- بین بیت المقدس 6 و 8",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.484507,29.594892 ]
+    },
+    "properties": {
+    "id":28,
+    "adrr":"شیراز- بلوار زاگرس شرقی- پاییز- پاییز 10",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.486751,29.59337 ]
+    },
+    "properties": {
+    "id":29,
+    "adrr":"شیراز- بلوار زاگرس شرقی- سراج- بین سراج 19/1 و شهدای عشایر",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.462301,29.596552 ]
+    },
+    "properties": {
+    "id":31,
+    "adrr":"شیراز- یاوران شرقی- شهدای احمدآباد- شهدای احمدآباد 15",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.461197,29.602659 ]
+    },
+    "properties": {
+    "id":36,
+    "adrr":"شیراز- ذوالفقار جنوبی- ذوالفقار جنوبی 10- بین ذوالفقار 8 و ذوالفقار 10",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.46211,29.60428 ]
+    },
+    "properties": {
+    "id":39,
+    "adrr":"شیراز- بلوار فجر شرقی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.468043,29.58967 ]
+    },
+    "properties": {
+    "id":42,
+    "adrr":"شیراز- بلوار کیومرث پور بهمن- پوربهمن 22",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.47168,29.590105 ]
+    },
+    "properties": {
+    "id":43,
+    "adrr":"شیراز- بلوار کیومرث پور بهمن- پوربهمن 12",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.478105,29.599143 ]
+    },
+    "properties": {
+    "id":45,
+    "adrr":"شیراز- شهید باهنر جنوبی- بلوار زاگرس شرقی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.503541,29.603209 ]
+    },
+    "properties": {
+    "id":51,
+    "adrr":"شیراز- بلوار رحمت غربی- صفایی جنوبی- صفایی جنوبی 3",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.504018,29.606502 ]
+    },
+    "properties": {
+    "id":53,
+    "adrr":"شیراز- بلوار رحمت غربی- صفایی جنوبی- صفایی جنوبی 3",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.50642,29.608778 ]
+    },
+    "properties": {
+    "id":55,
+    "adrr":"شیراز- بلوار رحمت غربی- صفایی جنوبی- صفایی جنوبی 3",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.47622,29.624204 ]
+    },
+    "properties": {
+    "id":61,
+    "adrr":"شیراز- بلوار پاسداران- مبعث- مبعث 12",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.477515,29.621153 ]
+    },
+    "properties": {
+    "id":63,
+    "adrr":"شیراز- بلوار پاسداران- شهید آقایی- آقایی 8",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.463929,29.628565 ]
+    },
+    "properties": {
+    "id":72,
+    "adrr":"شیراز- ایمان جنوبی- ایمان جنوبی 9- شیخی- گلچین غربی 13- بین گلچین 9/4 و 9/6",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.457128,29.63327 ]
+    },
+    "properties": {
+    "id":82,
+    "adrr":"شیراز- ایمان جنوبی- کوچه 12 ایمان جنوبی- کوچه 12/1 ایمان جنوبی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.480825,29.62232 ]
+    },
+    "properties": {
+    "id":86,
+    "adrr":"شیراز- بلوار پاسداران- شهید آقایی- آقایی 5- بین آقایی 5/1  و 5/3",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.51872,29.607714 ]
+    },
+    "properties": {
+    "id":88,
+    "adrr":"شیراز- انقلاب اسلامی- بین انقلاب اسلامی 32 و 34",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.553788,29.62778 ]
+    },
+    "properties": {
+    "id":94,
+    "adrr":"شیراز- بلوار قدس- بین قدس 2 و 4",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.542744,29.629138 ]
+    },
+    "properties": {
+    "id":98,
+    "adrr":"شیراز- سمیه- بین سمیه 4 و حدادی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.526606,29.639482 ]
+    },
+    "properties": {
+    "id":106,
+    "adrr":"شیراز- دانشگاه- دانشگاه 20- دانشگاه 6",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.530777,29.632939 ]
+    },
+    "properties": {
+    "id":110,
+    "adrr":"شیراز- بلوار ارم- ارم 13",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.535174,29.629183 ]
+    },
+    "properties": {
+    "id":112,
+    "adrr":"شیراز- بلوار ارم- بلوار آزادی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.518709,29.638574 ]
+    },
+    "properties": {
+    "id":115,
+    "adrr":"شیراز- بلوار دانشجو- دانشگاه- دانشگاه 4",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.513658,29.624164 ]
+    },
+    "properties": {
+    "id":118,
+    "adrr":"شیراز- قصردشت- قصردشت 39",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.521963,29.630709 ]
+    },
+    "properties": {
+    "id":122,
+    "adrr":"شیراز- بلوار کریمخان زند",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.523323,29.614434 ]
+    },
+    "properties": {
+    "id":127,
+    "adrr":"شیراز- بلوار استقلال",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.519783,29.627043 ]
+    },
+    "properties": {
+    "id":132,
+    "adrr":"شیراز- خیابان ملاصدرا- هدایت غربی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.505419,29.624211 ]
+    },
+    "properties": {
+    "id":135,
+    "adrr":"شیراز- بلوار ستارخان- 6 ستارخان- 7 عرفان منش",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.49351,29.631989 ]
+    },
+    "properties": {
+    "id":144,
+    "adrr":"شیراز- بلوار ستارخان- کوچه 15 ستارخان",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.48934,29.631542 ]
+    },
+    "properties": {
+    "id":146,
+    "adrr":"شیراز- بلوار شهید مطهری شمالی- تلخداش- بین کوچه 3 تلخداش و کوچه 8 تلخداش",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.484241,29.618235 ]
+    },
+    "properties": {
+    "id":147,
+    "adrr":"شیراز- بلوار پاسداران- شهید کلاهدوز- کلاهدوز 5",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.488085,29.618788 ]
+    },
+    "properties": {
+    "id":149,
+    "adrr":"شیراز- بلوار استقلال- استقلال 46",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.529678,29.618045 ]
+    },
+    "properties": {
+    "id":160,
+    "adrr":"شیراز- وصال شیرازی شمالی- وصال شمالی 16 - حجری 2- بین حائری و حقیقی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.529776,29.614659 ]
+    },
+    "properties": {
+    "id":161,
+    "adrr":"شیراز- وصال شیرازی شمالی- خیابان منوچهری- بین منوچهری 14  و 16",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.532277,29.610233 ]
+    },
+    "properties": {
+    "id":163,
+    "adrr":"شیراز- قاآنی شمالی- قاآنی شمالی 4- قاآنی شمالی 4/2",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.542241,29.621066 ]
+    },
+    "properties": {
+    "id":168,
+    "adrr":"شیراز- زیر گذر زند- سعدی- مکتبی شیرازی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.539971,29.620783 ]
+    },
+    "properties": {
+    "id":170,
+    "adrr":"شیراز- بلوار کریمخان زند- رودکی- رودکی 2",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.480364,29.599927 ]
+    },
+    "properties": {
+    "id":25,
+    "adrr":"شیراز- بلوار زاگرس شرقی- زاگرس شرقی 2",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.459414,29.601493 ]
+    },
+    "properties": {
+    "id":44,
+    "adrr":"شیراز- یاوران غربی- یاوران غربی 6- فجر شرقی 3/13",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.510902,29.607458 ]
+    },
+    "properties": {
+    "id":54,
+    "adrr":"شیراز- بلوار رحمت غربی- صفایی جنوبی- صفایی جنوبی 3",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.515788,29.608631 ]
+    },
+    "properties": {
+    "id":57,
+    "adrr":"شیراز- بلوار بهشتی- قدمگاه شرقی- قدمگاه10",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.449487,29.615311 ]
+    },
+    "properties": {
+    "id":80,
+    "adrr":"شیراز- بلواروالفجر- جماران 15",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.54027,29.631927 ]
+    },
+    "properties": {
+    "id":103,
+    "adrr":"شیراز- بلوار قدس- بین قدس 7 و میدان آزادی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.514495,29.62565 ]
+    },
+    "properties": {
+    "id":120,
+    "adrr":"شیراز- قصردشت- بین قصردشت 39 و 41",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.520467,29.619174 ]
+    },
+    "properties": {
+    "id":128,
+    "adrr":"شیراز- شوریده شیرازی- شوریده12",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.528027,29.604892 ]
+    },
+    "properties": {
+    "id":165,
+    "adrr":"شیراز- قاآنی جنوبی- قاآنی جنوبی 18",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.531292,29.619498 ]
+    },
+    "properties": {
+    "id":171,
+    "adrr":"شیراز- وصال شیرازی شمالی- لطفعلی خان زند- لطفعلی خان 80",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.550425,29.595538 ]
+    },
+    "properties": {
+    "id":172,
+    "adrr":"شیراز- بلوار دلاوران بسیج- جنت 25",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.560338,29.595258 ]
+    },
+    "properties": {
+    "id":173,
+    "adrr":"شیراز- بلوار الزهرا- بین بهداشت و بلوار آیت الله حقیقت",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.558004,29.594758 ]
+    },
+    "properties": {
+    "id":175,
+    "adrr":"شیراز- بلوار الزهرا- خیابان نرجس- نرجس 4",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.553214,29.597456 ]
+    },
+    "properties": {
+    "id":176,
+    "adrr":"شیراز- بلوار دلاوران بسیج- دلاوران بسیج 15",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.557372,29.604865 ]
+    },
+    "properties": {
+    "id":181,
+    "adrr":"شیراز- بلوار زینبیه- غدیر- غدير 14",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.547887,29.598895 ]
+    },
+    "properties": {
+    "id":189,
+    "adrr":"شیراز- بلوار سیبویه- بین شهید مفتح و جمعیت هلال احمر فارس",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.541821,29.602701 ]
+    },
+    "properties": {
+    "id":191,
+    "adrr":"شیراز- بلوار سیبویه- کوچه امامزاده ابراهیم- بین 16/6 و 16/4",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.538163,29.603201 ]
+    },
+    "properties": {
+    "id":192,
+    "adrr":"شیراز- بلوار احمدی شمالی- نصیری",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.533232,29.607422 ]
+    },
+    "properties": {
+    "id":195,
+    "adrr":"شیراز- بلوار سیبویه- کارگر- بین کارگر 27 و 36",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.544553,29.611947 ]
+    },
+    "properties": {
+    "id":200,
+    "adrr":"شیراز- قاآنی شمالی- لطفعلی خان زند- بین احمدی و لطفعلی خان 50",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.543681,29.609062 ]
+    },
+    "properties": {
+    "id":202,
+    "adrr":"شیراز",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.544781,29.615049 ]
+    },
+    "properties": {
+    "id":208,
+    "adrr":"شیراز- بلوار کریمخان زند- طالقانی- بین فرهنگ و وکیل",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.551129,29.615116 ]
+    },
+    "properties": {
+    "id":209,
+    "adrr":"شیراز- بلوار کریمخان زند- کریمخان زند 20- اکبری",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.55327,29.606758 ]
+    },
+    "properties": {
+    "id":210,
+    "adrr":"شیراز- بلوار زینبیه- لطفعلی خان زند- بین لطفعلی خان 18 و 23",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.55866,29.608945 ]
+    },
+    "properties": {
+    "id":214,
+    "adrr":"شیراز- بلوار کریمخان زند- تختی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.544378,29.594247 ]
+    },
+    "properties": {
+    "id":219,
+    "adrr":"شیراز- بلوار ارتش- شهدای شیشه گری- شهید مفتح",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.552469,29.596052 ]
+    },
+    "properties": {
+    "id":222,
+    "adrr":"شیراز- بلوار دلاوران بسیج- دلاوران بسیج 34",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.529984,29.599057 ]
+    },
+    "properties": {
+    "id":223,
+    "adrr":"شیراز- بلوار ارتش- ارتش 57",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.549132,29.59846 ]
+    },
+    "properties": {
+    "id":224,
+    "adrr":"شیراز- بلوار سیبویه- جمعیت هلال احمر فارس",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.570038,29.57888 ]
+    },
+    "properties": {
+    "id":227,
+    "adrr":"شیراز- بلوار رحمت شرقی- رحمت 23- هرمزگان 10",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.565456,29.589464 ]
+    },
+    "properties": {
+    "id":233,
+    "adrr":"شیراز- بلوار رازی- بین بلوار آیت الله حقیقت و رازی 4",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.576224,29.579538 ]
+    },
+    "properties": {
+    "id":238,
+    "adrr":"شیراز- بلوار مدرس- خیابان فضل آباد- بین کوچه 5 فضل آباد و کوچه 10 فضل آباد",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.557641,29.554666 ]
+    },
+    "properties": {
+    "id":240,
+    "adrr":"شیراز- بلوار احمد ابن موسی- بلوار ابوذر غفاری",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.582843,29.56945 ]
+    },
+    "properties": {
+    "id":241,
+    "adrr":"شیراز- بلوار مدرس- دشت چنار- دشت چنار 11",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.593136,29.559702 ]
+    },
+    "properties": {
+    "id":242,
+    "adrr":"شیراز- بلوار مدرس",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.587325,29.561598 ]
+    },
+    "properties": {
+    "id":245,
+    "adrr":"شیراز- بلوار مدرس",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.593883,29.555939 ]
+    },
+    "properties": {
+    "id":246,
+    "adrr":"شیراز- بلوار مدرس",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.577848,29.597258 ]
+    },
+    "properties": {
+    "id":247,
+    "adrr":"شیراز- بلوار فضیلت جنوبی- شاهیجان شرقی- بلوار باران",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.589945,29.586675 ]
+    },
+    "properties": {
+    "id":251,
+    "adrr":"شیراز- سرداران- سرداران 61",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.583858,29.591099 ]
+    },
+    "properties": {
+    "id":252,
+    "adrr":"شیراز- آزادگان- آزادگان 8- بین آزادگان 4 و عباسی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.584321,29.59183 ]
+    },
+    "properties": {
+    "id":253,
+    "adrr":"شیراز- آزادگان- آزادگان 4",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.590753,29.582466 ]
+    },
+    "properties": {
+    "id":260,
+    "adrr":"شیراز- بلوار سرداران- سلحشور جنوبی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.593246,29.584215 ]
+    },
+    "properties": {
+    "id":262,
+    "adrr":"شیراز- بلوار سرداران- فیجانی- بین فیجانی 2 و 4",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.604457,29.582874 ]
+    },
+    "properties": {
+    "id":265,
+    "adrr":"شیراز- شهید علی اکبر رنجبر- شهید رنجبر 24- نیرو انتظامی 10- نیرو انتظامی 10/7",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.603103,29.582163 ]
+    },
+    "properties": {
+    "id":266,
+    "adrr":"شیراز- سینا شرقی- سینا شرقی 15- سینا شرقی 15/5",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.601249,29.569178 ]
+    },
+    "properties": {
+    "id":272,
+    "adrr":"شیراز- بلوار شیرودی- نرسیده به میدان فرصت شیرازی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.605572,29.567968 ]
+    },
+    "properties": {
+    "id":274,
+    "adrr":"شیراز- بلوار فرصت شیرازی- فاضل- دانا- بین دانا 2 و 3",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.494665,29.635708 ]
+    },
+    "properties": {
+    "id":142,
+    "adrr":"شیراز- بلوار شهید مطهری شمالی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.507366,29.622075 ]
+    },
+    "properties": {
+    "id":154,
+    "adrr":"شیراز",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.549056,29.605084 ]
+    },
+    "properties": {
+    "id":185,
+    "adrr":"شیراز- شیخ روزبهان- بین 2 و آستانه 13",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.550897,29.608519 ]
+    },
+    "properties": {
+    "id":205,
+    "adrr":"شیراز- بلوار زینبیه- لطفعلی خان زند- بین لطفعلی خان 26 و 28",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.539404,29.602549 ]
+    },
+    "properties": {
+    "id":217,
+    "adrr":"شیراز- بلوار سیبویه",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.588706,29.579273 ]
+    },
+    "properties": {
+    "id":261,
+    "adrr":"شیراز- بلوار سرداران- محب غربی- بین امامی 3 و محب 3",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.588706,29.579273 ]
+    },
+    "properties": {
+    "id":262,
+    "adrr":"شیراز- بلوار سرداران- محب غربی- بین امامی 3 و محب 3",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.597076,29.574767 ]
+    },
+    "properties": {
+    "id":276,
+    "adrr":"شیراز- بلوار فرصت شیرازی- بلوار پروین اعتصامی- بین سهروردی و قدسی شیرازی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.603477,29.572156 ]
+    },
+    "properties": {
+    "id":277,
+    "adrr":"شیراز- بلوار فرصت شیرازی- فرصت شیرازی 13",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.617051,29.571779 ]
+    },
+    "properties": {
+    "id":279,
+    "adrr":"شیراز- بلوار فرصت شیرازی- رضوی- اتحاد- شریف آباد 19",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.595044,29.565893 ]
+    },
+    "properties": {
+    "id":281,
+    "adrr":"شیراز- بلوار مدرس- بلوار فرصت شیرازی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.59833,29.558697 ]
+    },
+    "properties": {
+    "id":283,
+    "adrr":"شیراز- بلوار مدرس- شهید عباس دوران- دوران 5",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.599083,29.560041 ]
+    },
+    "properties": {
+    "id":285,
+    "adrr":"شیراز- بلوار مدرس- شهید عباس دوران- بین دوران 7 و 9",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.609667,29.561009 ]
+    },
+    "properties": {
+    "id":294,
+    "adrr":"شیراز- بلوار شیرودی- شهید عباس دوران- سهل آباد- بین استادیان 8 و 10",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.613358,29.558918 ]
+    },
+    "properties": {
+    "id":296,
+    "adrr":"شیراز- خادم الحسینی- خادم الحسینی 8- سهل آباد- مجتبی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.62308,29.536676 ]
+    },
+    "properties": {
+    "id":299,
+    "adrr":"شیراز- بلوار ولایت- ولایت 10- ولایت 10/2",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.529941,29.588291 ]
+    },
+    "properties": {
+    "id":301,
+    "adrr":"شیراز- بلوار رحمت شرقی- بلواراستعجاب- بین استعجاب 5 و 7",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.650994,29.561782 ]
+    },
+    "properties": {
+    "id":303,
+    "adrr":"شیراز- بلوار تخت جمشید شرقی- بلوار مولوی- بلوار اتحاد- 67 اتحاد- بین 67/3 اتحاد و 67/2 اتحاد",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.650994,29.561782 ]
+    },
+    "properties": {
+    "id":303,
+    "adrr":"شیراز- بلوار تخت جمشید شرقی- بلوار مولوی- بلوار اتحاد- 67 اتحاد- بین 67/3 اتحاد و 67/2 اتحاد",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.620031,29.515468 ]
+    },
+    "properties": {
+    "id":305,
+    "adrr":"شیراز",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.470233,29.685486 ]
+    },
+    "properties": {
+    "id":310,
+    "adrr":"شیراز- بلوار دکتر شریعتی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.475221,29.683654 ]
+    },
+    "properties": {
+    "id":311,
+    "adrr":"شیراز- میرزای شیرازی شرقی- 44 میرزای شیرازی شرقی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.460862,29.698624 ]
+    },
+    "properties": {
+    "id":314,
+    "adrr":"شیراز- بلوار میرزای شیرازی- 27 میرزای شیرازی غربی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.479529,29.633261 ]
+    },
+    "properties": {
+    "id":316,
+    "adrr":"شیراز- شهید قدوسی غربی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.461457,29.703693 ]
+    },
+    "properties": {
+    "id":319,
+    "adrr":"شیراز- بلوار میرزای شیرازی- 40 میرزای شیرازی غربی- بین 40/5 میرزای شیرازی و 40/12 میرزای شیرازی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.46056,29.699227 ]
+    },
+    "properties": {
+    "id":320,
+    "adrr":"شیراز- بلوار میرزای شیرازی- 27 میرزای شیرازی غربی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.505423,29.63995 ]
+    },
+    "properties": {
+    "id":322,
+    "adrr":"شیراز- پل زرگری- مختاری- مختاری 1",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.489442,29.665239 ]
+    },
+    "properties": {
+    "id":324,
+    "adrr":"شیراز- نیایش- بین  نیایش 1 و بلوار شهید چمران",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.489664,29.665249 ]
+    },
+    "properties": {
+    "id":324,
+    "adrr":"شیراز- نیایش- بین  نیایش 1 و بلوار شهید چمران",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.476536,29.688635 ]
+    },
+    "properties": {
+    "id":325,
+    "adrr":"شیراز- بلوار میرزای شیرازی- بهشت",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.47602,29.702677 ]
+    },
+    "properties": {
+    "id":326,
+    "adrr":"شیراز- دینکان- 17 دینکان",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.482957,29.655812 ]
+    },
+    "properties": {
+    "id":330,
+    "adrr":"شیراز- میرزای شیرازی شرقی- ابتدای میرزای شیرازی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.482165,29.652687 ]
+    },
+    "properties": {
+    "id":332,
+    "adrr":"شیراز- وکلا- بین وکلا 15 و 17",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.475439,29.678212 ]
+    },
+    "properties": {
+    "id":334,
+    "adrr":"شیراز- پل معالی آباد- میرزای شیرازی شرقی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.460363,29.69809 ]
+    },
+    "properties": {
+    "id":336,
+    "adrr":"شیراز- بلوار میرزای شیرازی- 27 میرزای شیرازی غربی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.460018,29.69874 ]
+    },
+    "properties": {
+    "id":338,
+    "adrr":"شیراز- بلوار میرزای شیرازی- 27 میرزای شیرازی غربی- 1/24 زارع",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.477666,29.630383 ]
+    },
+    "properties": {
+    "id":339,
+    "adrr":"شیراز- کمیل- - بلوار شهید مطهری جنوبی- بلوار شهید مطهری شمالی- بلوار مطهری",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.480757,29.633454 ]
+    },
+    "properties": {
+    "id":340,
+    "adrr":"شیراز- شهید قدوسی غربی- قدوسی- قدوسی غربی 1",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.468937,29.636685 ]
+    },
+    "properties": {
+    "id":341,
+    "adrr":"شیراز- بلوار پاسداران- پاسداران 72- پاسداران 72/3",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.465398,29.639305 ]
+    },
+    "properties": {
+    "id":343,
+    "adrr":"شیراز- وکلا- علیرضایی غربی- معلّم- معلم 1",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.455083,29.651201 ]
+    },
+    "properties": {
+    "id":348,
+    "adrr":"شیراز- بلوار شهید رجایی- 29 شهید رجایی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.457074,29.651725 ]
+    },
+    "properties": {
+    "id":349,
+    "adrr":"شیراز- بلوار شهید رجایی- 29 شهید رجایی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.469868,29.679371 ]
+    },
+    "properties": {
+    "id":352,
+    "adrr":"شیراز- میرزای شیرازی شرقی- 23 میرزای شیرازی شرقی- اسماعیلی فرد- 3 اسماعیلی فرد",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.459197,29.685827 ]
+    },
+    "properties": {
+    "id":335,
+    "adrr":"شیراز- بلوار دکتر شریعتی- گلدشت 3- گلدشت- نسترن 2- بین 6 نسترن 2 و 8 نسترن 2",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.55551,29.599064 ]
+    },
+    "properties": {
+    "id":179,
+    "adrr":"شیراز- بلوار الزهرا- شهيد شجاعی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.552895,29.600486 ]
+    },
+    "properties": {
+    "id":187,
+    "adrr":"شیراز- بلوار زینبیه- نرسیده به آزادی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.552185,29.608615 ]
+    },
+    "properties": {
+    "id":211,
+    "adrr":"شیراز- لطفعلی خان زند- لطفعلی خان 24- ساعت- بین لطفعلی خان 26/1 و نارنجستان قوام",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.562392,29.583493 ]
+    },
+    "properties": {
+    "id":234,
+    "adrr":"شیراز- بلوار رحمت شرقی- شاهزاده بیگم- شاهزاده بیگم 13- ظریف 9",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.57896,29.581542 ]
+    },
+    "properties": {
+    "id":257,
+    "adrr":"شیراز- بلوار مدرس- بعد از 47 مدرس",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.601381,29.576852 ]
+    },
+    "properties": {
+    "id":271,
+    "adrr":"شیراز- بلوار فرصت شیرازی- ملک الشعرای بهار- استاد شهریار- سهروردی 6/1",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.615703,29.579285 ]
+    },
+    "properties": {
+    "id":282,
+    "adrr":"شیراز- بلوار فرصت شیرازی- فرصت شیرازی 43- تخت جمشید غربی 12/9",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.647194,29.5612 ]
+    },
+    "properties": {
+    "id":304,
+    "adrr":"شیراز- بلوار تخت جمشید شرقی- بلوار مولوی- بلوار اتحاد- اتحاد 40",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.470743,29.68964 ]
+    },
+    "properties": {
+    "id":312,
+    "adrr":"شیراز- بلوار میرزای شیرازی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.503267,29.638291 ]
+    },
+    "properties": {
+    "id":327,
+    "adrr":"شیراز- زیرگذر مطهری شمالی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.460055,29.63774 ]
+    },
+    "properties": {
+    "id":345,
+    "adrr":"شیراز- ایمان جنوبی- کوچه 4 ایمان جنوبی- بین کوچه 4/3 ایمان و کوچه 4/5 ایمان",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.460141,29.671337 ]
+    },
+    "properties": {
+    "id":350,
+    "adrr":"شیراز- بلوار شهید رجایی- شهیدان گرامی- 15 شهیدان گرامی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.46354,29.684761 ]
+    },
+    "properties": {
+    "id":357,
+    "adrr":"شیراز- بلوار دکتر شریعتی- گلدشت 1- گلدشت",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.462794,29.685029 ]
+    },
+    "properties": {
+    "id":358,
+    "adrr":"شیراز- بلوار دکتر شریعتی- گلدشت 2",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.463331,29.684763 ]
+    },
+    "properties": {
+    "id":359,
+    "adrr":"شیراز- بلوار دکتر شریعتی- گلدشت 2",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.458373,29.6879 ]
+    },
+    "properties": {
+    "id":362,
+    "adrr":"شیراز- شهید اکرام زاده- 2 اکرام زاده- 2/1 اکرام زاده",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.455917,29.685307 ]
+    },
+    "properties": {
+    "id":364,
+    "adrr":"شیراز- پرستار- امید نوروزی- گلدشت- خیابان لادن",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.473615,29.670568 ]
+    },
+    "properties": {
+    "id":365,
+    "adrr":"شیراز- بلوار شاهد- میرزای شیرازی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.509373,29.587765 ]
+    },
+    "properties": {
+    "id":369,
+    "adrr":"شیراز- بلواردولت غربی- منطق",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.518527,29.59908 ]
+    },
+    "properties": {
+    "id":371,
+    "adrr":"شیراز- بلوار سپاه شمالی- شهید خسرو زاده- بین لاله و خسروزاده 1",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.521298,29.598452 ]
+    },
+    "properties": {
+    "id":372,
+    "adrr":"شیراز- بلوار سپاه شمالی- شهید خسرو زاده",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.514509,29.596019 ]
+    },
+    "properties": {
+    "id":373,
+    "adrr":"شیراز- بلوار عدالت شمالی- شهید سپاسی- سپاسی 6- سپاسی 6/4",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.517281,29.596004 ]
+    },
+    "properties": {
+    "id":374,
+    "adrr":"شیراز- بلوار رحمت شرقی- شهید سپاسی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.519238,29.601154 ]
+    },
+    "properties": {
+    "id":376,
+    "adrr":"شیراز- شهید حراف- لاله- حقیقت",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.517137,29.591865 ]
+    },
+    "properties": {
+    "id":377,
+    "adrr":"شیراز- سپاه جنوبی- سپاه جنوبی 11- بین سپاه 9 و میدان تندگویان",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.544619,29.590713 ]
+    },
+    "properties": {
+    "id":378,
+    "adrr":"شیراز- بلوار رضوان- نرسیده به میدان 12 فروردین",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.555803,29.586381 ]
+    },
+    "properties": {
+    "id":379,
+    "adrr":"شیراز- بلوار دلاوران بسیج- لاوان",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.553288,29.58569 ]
+    },
+    "properties": {
+    "id":380,
+    "adrr":"شیراز- بلوار رحمت شرقی- رحمت 37- ابوالفضل- بین ابوالفضل 22 و 24",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.559278,29.580264 ]
+    },
+    "properties": {
+    "id":382,
+    "adrr":"شیراز- رحمت شرقی- رحمت 33- ابوالفضل- بلوار دلاوران بسیج",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.540928,29.574881 ]
+    },
+    "properties": {
+    "id":385,
+    "adrr":"شیراز- بلوار نواب صفوی- معراج- بین معراج 1 و 3",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.543439,29.587258 ]
+    },
+    "properties": {
+    "id":386,
+    "adrr":"شیراز- بلوار رضوان",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.556678,29.565871 ]
+    },
+    "properties": {
+    "id":389,
+    "adrr":"شیراز- بلوار ابوذر غفاری- 13 ابوذر غفاری- بین 13/1 و شهید مشایخ",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.553562,29.576501 ]
+    },
+    "properties": {
+    "id":392,
+    "adrr":"شیراز- بلوار ابوذر غفاری- شهید حسن پور- حسن پور 10",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.55109,29.575273 ]
+    },
+    "properties": {
+    "id":394,
+    "adrr":"شیراز- بلوار ابوذر غفاری- ابوذر غفاری 41- عابدینی 17",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.550481,29.572791 ]
+    },
+    "properties": {
+    "id":397,
+    "adrr":"شیراز- بلوار ابوذر غفاری- بین آیت الله قدسی و بلوار دولت",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.549963,29.57317 ]
+    },
+    "properties": {
+    "id":399,
+    "adrr":"شیراز- بلوار ابوذر غفاری- آیت الله قدسی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.529057,29.592694 ]
+    },
+    "properties": {
+    "id":402,
+    "adrr":"شیراز- بلوار رحمت شرقی- رحمت 63- بین  رحمت 63/3 و رحمت 63/6",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.527844,29.59009 ]
+    },
+    "properties": {
+    "id":404,
+    "adrr":"شیراز- بلوار قائم- قائم 5",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.525542,29.58691 ]
+    },
+    "properties": {
+    "id":407,
+    "adrr":"شیراز- بلوار قائم- فکوری",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.523857,29.589639 ]
+    },
+    "properties": {
+    "id":408,
+    "adrr":"شیراز- بلوار تندگویان- میلاد",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.524088,29.588776 ]
+    },
+    "properties": {
+    "id":409,
+    "adrr":"شیراز- بلوار تندگویان- فکوری- بین فکوری 16 و 20",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.519866,29.575787 ]
+    },
+    "properties": {
+    "id":410,
+    "adrr":"شیراز- بلوار قائم- خیابان کلام",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.527812,29.586571 ]
+    },
+    "properties": {
+    "id":413,
+    "adrr":"شیراز- بلوار قائم- محمدی- بین بلواراستعجاب و بلوارآذر پیکان",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.529189,29.585263 ]
+    },
+    "properties": {
+    "id":415,
+    "adrr":"شیراز- بلوار قائم- فعال 6- فعال 3",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.532831,29.584106 ]
+    },
+    "properties": {
+    "id":418,
+    "adrr":"شیراز- خیابان بنی هاشمی- بنی هاشمی 19",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.573912,29.593168 ]
+    },
+    "properties": {
+    "id":254,
+    "adrr":"شیراز- آزادگان- آزادگان 17",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.591362,29.576818 ]
+    },
+    "properties": {
+    "id":269,
+    "adrr":"شیراز- خیابان شهید بنیانی(بیست متری پنجم)- بلوار جانبازان",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.600999,29.560644 ]
+    },
+    "properties": {
+    "id":286,
+    "adrr":"شیراز- بلوار شیرودی- شهید عباس دوران- بین شهید عباس دوران8 و 10",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.602398,29.553474 ]
+    },
+    "properties": {
+    "id":297,
+    "adrr":"شیراز- بلوار شیرودی- شیرودی 3",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.474741,29.701708 ]
+    },
+    "properties": {
+    "id":306,
+    "adrr":"شیراز- دینکان- بین 15 دینکان و 15/الف دینکان",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.459986,29.698833 ]
+    },
+    "properties": {
+    "id":337,
+    "adrr":"شیراز- بلوار میرزای شیرازی- 27 میرزای شیرازی غربی- 1/24 زارع",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.456204,29.671851 ]
+    },
+    "properties": {
+    "id":351,
+    "adrr":"شیراز- بلوار دکتر شریعتی- خیابان بهاران- 3 بهاران",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.463104,29.685397 ]
+    },
+    "properties": {
+    "id":360,
+    "adrr":"شیراز- بلوار دکتر شریعتی- گلدشت 2- گلدشت",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.512583,29.59989 ]
+    },
+    "properties": {
+    "id":367,
+    "adrr":"شیراز- بلوار عدالت شمالی- عدالت شمالی 13",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.523611,29.582652 ]
+    },
+    "properties": {
+    "id":405,
+    "adrr":"شیراز- بلوار قائم- بین قائم 35 و 37",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.529961,29.584992 ]
+    },
+    "properties": {
+    "id":416,
+    "adrr":"شیراز- بلوار رحمت شرقی- کشوری- بین کشوری 18 و 20",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.542187,29.567422 ]
+    },
+    "properties": {
+    "id":423,
+    "adrr":"شیراز- بلوار نواب صفوی- کوشک میدان 15",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.542065,29.579782 ]
+    },
+    "properties": {
+    "id":425,
+    "adrr":"شیراز- بلوار نواب صفوی- نواب صفوی 21- سجاد 1- 1/3",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.526555,29.565691 ]
+    },
+    "properties": {
+    "id":426,
+    "adrr":"شیراز- بلوار نواب صفوی- نواب صفوی 21- سجاد 1- 1/3",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.519762,29.569405 ]
+    },
+    "properties": {
+    "id":427,
+    "adrr":"شیراز- بلوار نواب صفوی- نواب صفوی 21- سجاد 1- 1/3",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.52327,29.568332 ]
+    },
+    "properties": {
+    "id":431,
+    "adrr":"شیراز- بلوار نواب صفوی- نواب صفوی 21- سجاد 1- 1/3",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.524506,29.574745 ]
+    },
+    "properties": {
+    "id":433,
+    "adrr":"شیراز- بلوار قائم- خیابان کلام- راستان- بین راستان 14 و 16",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.516672,29.57899 ]
+    },
+    "properties": {
+    "id":434,
+    "adrr":"شیراز- بلوار شهیدان فهیمی- بلوار شهید صفرزاده",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.533241,29.577076 ]
+    },
+    "properties": {
+    "id":435,
+    "adrr":"شیراز- بلوار دولت- دولت شرقی 12",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.547958,29.682129 ]
+    },
+    "properties": {
+    "id":437,
+    "adrr":"فارس- شهرستان شیراز- بلوار پارسیان شمالی- نرسیده به 1 پارسیان",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.547864,29.682064 ]
+    },
+    "properties": {
+    "id":438,
+    "adrr":"فارس- شهرستان شیراز- بلوار پارسیان شمالی- ابتدای بلوار پارسیان",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.553517,29.679265 ]
+    },
+    "properties": {
+    "id":440,
+    "adrr":"فارس- شهرستان شیراز- بلوار تلاش شرقی- نقش رستم- بین قائم و 4",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.554171,29.622637 ]
+    },
+    "properties": {
+    "id":443,
+    "adrr":"شیراز- حافظ- شهید عمادی- کوچه 5 عمادی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.567093,29.625159 ]
+    },
+    "properties": {
+    "id":446,
+    "adrr":"شیراز- بلوار هفت تنان- نرسیده به هفت تنان 13",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.5666,29.621514 ]
+    },
+    "properties": {
+    "id":450,
+    "adrr":"شیراز- بلوار هفت تنان- معزی- بین معزی 4 و 6",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.562089,29.615119 ]
+    },
+    "properties": {
+    "id":453,
+    "adrr":"شیراز- سفر",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.57014,29.615944 ]
+    },
+    "properties": {
+    "id":457,
+    "adrr":"شیراز- بلوار هفت تنان- شهید محمدی فر- محمدي فر 1",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.584021,29.622792 ]
+    },
+    "properties": {
+    "id":458,
+    "adrr":"شیراز- بلوار هفت تنان- شهید محمدی فر- محمدي فر 1",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.585566,29.628111 ]
+    },
+    "properties": {
+    "id":463,
+    "adrr":"شیراز- بلوار نیستان- نیستان 54- بین آزادگان و 54/7 نیستان",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.597084,29.62938 ]
+    },
+    "properties": {
+    "id":466,
+    "adrr":"شیراز- جاده شیراز ـخرامه- بلوار نارنجستان",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.586184,29.62356 ]
+    },
+    "properties": {
+    "id":468,
+    "adrr":"شیراز- بلوار نارنجستان- مطهری",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.584416,29.622508 ]
+    },
+    "properties": {
+    "id":470,
+    "adrr":"شیراز- بلوار نارنجستان- مطهری- 35/3 مطهری",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.583952,29.622993 ]
+    },
+    "properties": {
+    "id":471,
+    "adrr":"شیراز- بلوار نارنجستان- مطهری",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.580161,29.620891 ]
+    },
+    "properties": {
+    "id":472,
+    "adrr":"شیراز- بلوار بوستان- بین 11 بوستان و 13 بوستان",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.570814,29.613101 ]
+    },
+    "properties": {
+    "id":475,
+    "adrr":"شیراز- بلوار ابونصر غربی- نصر غربی 21- نصر غربی 21/2",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.57293,29.611355 ]
+    },
+    "properties": {
+    "id":477,
+    "adrr":"شیراز- بلوار ابونصر غربی- نصر غربی 19",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.574882,29.6114 ]
+    },
+    "properties": {
+    "id":479,
+    "adrr":"شیراز- بلوار ابونصر غربی- نصر غربی 26",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.580955,29.609624 ]
+    },
+    "properties": {
+    "id":480,
+    "adrr":"شیراز- بلوار فضیلت شمالی- فضیلت- بلوار سرداران",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.582071,29.606008 ]
+    },
+    "properties": {
+    "id":482,
+    "adrr":"شیراز- موعود جنوبی- بین موعود 1 و بلوار ابونصر",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.582049,29.60584 ]
+    },
+    "properties": {
+    "id":483,
+    "adrr":"شیراز- بلوار ابونصر غربی- بین نصر18 و موعود",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.578832,29.604183 ]
+    },
+    "properties": {
+    "id":484,
+    "adrr":"شیراز- بلوار فضیلت شمالی- فضیلت 33- فیض 1",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.594065,29.597254 ]
+    },
+    "properties": {
+    "id":486,
+    "adrr":"شیراز- بلوار سرداران- بلوار ابونصر غربی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.607028,29.589259 ]
+    },
+    "properties": {
+    "id":489,
+    "adrr":"شیراز- بلوار ابونصر شرقی- بین ابونصر 14 و خیابان شهید ماهر",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.62773,29.581093 ]
+    },
+    "properties": {
+    "id":493,
+    "adrr":"شیراز- بلوار ابونصر شرقی- ابونصر شرقی 14",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.639352,29.580571 ]
+    },
+    "properties": {
+    "id":495,
+    "adrr":"شیراز- بلوار ابونصر شرقی- ابونصر شرقی 25",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.628434,29.569195 ]
+    },
+    "properties": {
+    "id":300,
+    "adrr":"شیراز- بلوار تخت جمشید شرقی- بلوار مولوی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.487083,29.652038 ]
+    },
+    "properties": {
+    "id":308,
+    "adrr":"شیراز- قصردشت- بین قصردشت 86 و 97",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.478405,29.665716 ]
+    },
+    "properties": {
+    "id":329,
+    "adrr":"شیراز- بلوار شاهد- شاهد 2",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.469242,29.636503 ]
+    },
+    "properties": {
+    "id":342,
+    "adrr":"شیراز- بلوار پاسداران- پاسداران 72- پاسداران 72/3",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.459098,29.642943 ]
+    },
+    "properties": {
+    "id":344,
+    "adrr":"شیراز- بلوار شهید رجایی- 19 شهید رجایی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.459275,29.685611 ]
+    },
+    "properties": {
+    "id":336,
+    "adrr":"شیراز- بلوار دکتر شریعتی- گلدشت 3- گلدشت- نسترن 2- بین 6 نسترن 2 و 8 نسترن 2",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.558451,29.575289 ]
+    },
+    "properties": {
+    "id":384,
+    "adrr":"شیراز- بلوار رحمت شرقی- بلوار ماذون قشقایی- آیت الله قشقایی- بین قشقایی 25 و 27",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.558274,29.555874 ]
+    },
+    "properties": {
+    "id":398,
+    "adrr":"شیراز- بلوار احمد ابن موسی- بلوار ابوذر غفاری",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.53253,29.583957 ]
+    },
+    "properties": {
+    "id":419,
+    "adrr":"شیراز- خیابان بنی هاشمی- بنی هاشمی 21",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.521244,29.570199 ]
+    },
+    "properties": {
+    "id":429,
+    "adrr":"شیراز- بلوار نواب صفوی- نواب صفوی 21- سجاد 1- 1/3",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.546361,29.682634 ]
+    },
+    "properties": {
+    "id":439,
+    "adrr":"فارس- شهرستان شیراز- بلوار پارسیان جنوبی- 1 پارسیان جنوبی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.556759,29.626416 ]
+    },
+    "properties": {
+    "id":444,
+    "adrr":"شیراز- بلوار گلستان- 10‍",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.575867,29.622449 ]
+    },
+    "properties": {
+    "id":474,
+    "adrr":"شیراز- بلوار نیستان- بین 9 نیستان و 11نیستان",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.595979,29.594993 ]
+    },
+    "properties": {
+    "id":491,
+    "adrr":"شیراز- بلوار ابونصر شرقی- شمشاد",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.572627,29.646982 ]
+    },
+    "properties": {
+    "id":497,
+    "adrr":"شیراز- بلوار امام رضا- آبزنگی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.563259,29.640496 ]
+    },
+    "properties": {
+    "id":498,
+    "adrr":"شیراز- بلوار امام رضا- نعمت الله صادقی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.428839,29.730728 ]
+    },
+    "properties": {
+    "id":500,
+    "adrr":"شیراز- بلوار امام رضا- نعمت الله صادقی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.438109,29.721992 ]
+    },
+    "properties": {
+    "id":501,
+    "adrr":"شیراز- بلوار امام رضا- نعمت الله صادقی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.442404,29.717404 ]
+    },
+    "properties": {
+    "id":503,
+    "adrr":"شیراز- بلوار امام رضا- نعمت الله صادقی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.425956,29.741895 ]
+    },
+    "properties": {
+    "id":506,
+    "adrr":"شیراز- بلوار دکتر حسابی- علوی- کوچه 26 علوی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.421722,29.744175 ]
+    },
+    "properties": {
+    "id":507,
+    "adrr":"شیراز- بلوار غدیر جنوبی- خیابان شهید طبری- کوچه 1 طبری",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.419561,29.754568 ]
+    },
+    "properties": {
+    "id":510,
+    "adrr":"شیراز- علامه امینی- خیابان رئیسعلی دلواری- کوچه 12 رئیسعلی دلواری",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.419046,29.754486 ]
+    },
+    "properties": {
+    "id":511,
+    "adrr":"شیراز- علامه امینی- خیابان آلاله- کوچه 11 آلاله",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.412832,29.753823 ]
+    },
+    "properties": {
+    "id":513,
+    "adrr":"شیراز- بلوار غدیر شمالی- بلوار صبا",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.411635,29.753675 ]
+    },
+    "properties": {
+    "id":515,
+    "adrr":"شیراز- بلوار غدیر شمالی- بلوار صبا",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.425472,29.751258 ]
+    },
+    "properties": {
+    "id":517,
+    "adrr":"شیراز- علامه امینی- بلوار کشاورز- کوچه 12 کشاورز",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.410138,29.757197 ]
+    },
+    "properties": {
+    "id":519,
+    "adrr":"شیراز- بلوار غدیر شمالی- خیابان گل رز- بین خیابان سحر و کوچه 2 گل رز",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.418356,29.754107 ]
+    },
+    "properties": {
+    "id":521,
+    "adrr":"شیراز- بلوار غدیر شمالی- خیابان نور- کوچه 5 نور- بین خیابان افراق و کوچه 5/6 نور",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.402711,29.759104 ]
+    },
+    "properties": {
+    "id":522,
+    "adrr":"شیراز- بلوار دهخدا- یاسمن- بین یاسمن 1 و 2",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.41867,29.753359 ]
+    },
+    "properties": {
+    "id":523,
+    "adrr":"شیراز- بلوار غدیر شمالی- خیابان نور- کوچه 5 نور- کوچه 5/7 نور",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.519208,29.790081 ]
+    },
+    "properties": {
+    "id":524,
+    "adrr":"صدرا- بلوار حافظ- خیابان پیشگامان- پرتو",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.498315,29.802376 ]
+    },
+    "properties": {
+    "id":526,
+    "adrr":"صدرا- بلوار امام خمینی- ابشار- اریا- کوچه آریا 7",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.498047,29.80198 ]
+    },
+    "properties": {
+    "id":528,
+    "adrr":"صدرا- بلوار مولانا- بلوار ارم",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.504396,29.806953 ]
+    },
+    "properties": {
+    "id":529,
+    "adrr":"صدرا- بلوار زاگرس- بلوار فرهنگ- بین خیابان ناهید  و فرشتگان",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.514397,29.800665 ]
+    },
+    "properties": {
+    "id":532,
+    "adrr":"صدرا- بلوار البرز- البرز 2- فارابی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.476636,29.807082 ]
+    },
+    "properties": {
+    "id":535,
+    "adrr":"صدرا- بلوار بوستان- بلوار شهيد مطهرنیا",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.436551,29.831702 ]
+    },
+    "properties": {
+    "id":537,
+    "adrr":"صدرا- بلوار کتاب- امیر کبیر- تقاطع بختگان",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.449919,29.82219 ]
+    },
+    "properties": {
+    "id":539,
+    "adrr":"صدرا- بلوار کوثر- ابوریحان",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.447966,29.824435 ]
+    },
+    "properties": {
+    "id":540,
+    "adrr":"صدرا- ابوریحان- ابوریحان(شمالی) 2",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.44855,29.824792 ]
+    },
+    "properties": {
+    "id":541,
+    "adrr":"صدرا- ارتش- سهروردی- سهروردی 6",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.503894,29.797625 ]
+    },
+    "properties": {
+    "id":543,
+    "adrr":"صدرا- بلوار دانش- دانش 1- بهزادی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.521712,29.787003 ]
+    },
+    "properties": {
+    "id":545,
+    "adrr":"صدرا- بلوار حافظ- خیابان پیشگامان- ازادگان 2- نارنج 1",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.438542,29.77331 ]
+    },
+    "properties": {
+    "id":549,
+    "adrr":"فارس- شهرستان شیراز- دکتر حسابی- کوثر- عرفان- بین نشاط و شاهد",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.437461,29.776603 ]
+    },
+    "properties": {
+    "id":551,
+    "adrr":"فارس- شهرستان شیراز- شاهد- 4",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.49286,29.707546 ]
+    },
+    "properties": {
+    "id":553,
+    "adrr":"شیراز- امیر المومنین- ولایت",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.413668,29.794452 ]
+    },
+    "properties": {
+    "id":555,
+    "adrr":"فارس- شهرستان شیراز- یاسوج - شیراز- زنبق- بین لاله و مجید دوکوهکی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.488983,29.649583 ]
+    },
+    "properties": {
+    "id":307,
+    "adrr":"شیراز- قصردشت- بین قصردشت 93 و 95",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.456998,29.656483 ]
+    },
+    "properties": {
+    "id":318,
+    "adrr":"شیراز- بلوار شهید رجایی- بین 30 شهید رجایی و 32 شهید رجایی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.482364,29.665924 ]
+    },
+    "properties": {
+    "id":328,
+    "adrr":"شیراز- بلوار شاهد- بین شاهد 5 و 7",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.482791,29.654998 ]
+    },
+    "properties": {
+    "id":333,
+    "adrr":"شیراز- میرزای شیرازی شرقی- 1 میرزای شیرازی شرقی- بین 1/2 میرزای شیرازی و 1/4 میرزای شیرازی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.466421,29.696738 ]
+    },
+    "properties": {
+    "id":336,
+    "adrr":"شیراز- بلوار میرزای شیرازی- 20 میرزای شیرازی غربی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.473263,29.637252 ]
+    },
+    "properties": {
+    "id":341,
+    "adrr":"شیراز- شهید قدوسی غربی- بلوار محلاتی جنوبی- بین محلاتی 12 و علیرضایی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.465398,29.639305 ]
+    },
+    "properties": {
+    "id":343,
+    "adrr":"شیراز- وکلا- علیرضایی غربی- معلّم- معلم 1",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.45264,29.676483 ]
+    },
+    "properties": {
+    "id":354,
+    "adrr":"شیراز- بلوار شهید رجایی- پرستار",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.513236,29.600412 ]
+    },
+    "properties": {
+    "id":366,
+    "adrr":"شیراز- بلوار عدالت شمالی- عدالت شمالی 9",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.51759,29.592974 ]
+    },
+    "properties": {
+    "id":375,
+    "adrr":"شیراز- سپاه جنوبی- سپاه جنوبی 5",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.554057,29.585493 ]
+    },
+    "properties": {
+    "id":381,
+    "adrr":"شیراز- بلوار دلاوران بسیج- غدیر- ابوالفضل 15",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.556708,29.572686 ]
+    },
+    "properties": {
+    "id":395,
+    "adrr":"شیراز- بلوار رحمت شرقی- کارگران- آیت الله قشقایی- کوچ- بین کوچ 8 و 10",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.550538,29.572446 ]
+    },
+    "properties": {
+    "id":396,
+    "adrr":"شیراز- بلوار دولت- راستی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.533224,29.593862 ]
+    },
+    "properties": {
+    "id":400,
+    "adrr":"شیراز- بلوار احمدی جنوبی- احمد جنوبی 13",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.533897,29.588153 ]
+    },
+    "properties": {
+    "id":417,
+    "adrr":"شیراز- خیابان بنی هاشمی- بنی هاشمی 2",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.524929,29.566136 ]
+    },
+    "properties": {
+    "id":430,
+    "adrr":"شیراز- بلوار نواب صفوی- نواب صفوی 21- سجاد 1- 1/3",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.553422,29.548801 ]
+    },
+    "properties": {
+    "id":432,
+    "adrr":"شیراز- بلوار نواب صفوی- نواب صفوی 21- سجاد 1- 1/3",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.506928,29.576812 ]
+    },
+    "properties": {
+    "id":436,
+    "adrr":"شیراز",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.562158,29.614989 ]
+    },
+    "properties": {
+    "id":454,
+    "adrr":"شیراز- سفر",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.575367,29.621193 ]
+    },
+    "properties": {
+    "id":459,
+    "adrr":"شیراز- بلوار هفت تنان- شهید محمدی فر- محمدي فر 1",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.590767,29.619016 ]
+    },
+    "properties": {
+    "id":465,
+    "adrr":"شیراز- بلوار سرتیپ شهید وفایی- بین وفایی 1 و شهدای سعدی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.588888,29.625232 ]
+    },
+    "properties": {
+    "id":469,
+    "adrr":"شیراز- بلوار نارنجستان- نارنجستان39- نارنجستان 47/1ب- بین علی مومن و ریاست",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.580946,29.609075 ]
+    },
+    "properties": {
+    "id":481,
+    "adrr":"شیراز- بلوار ابونصر غربی- ذوالانوار- مسکن و شهرسازی 5/3",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.578745,29.602934 ]
+    },
+    "properties": {
+    "id":485,
+    "adrr":"شیراز- بلوار فضیلت جنوبی- فضیلت 29",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.599359,29.593659 ]
+    },
+    "properties": {
+    "id":488,
+    "adrr":"شیراز- بلوار ابونصر شرقی- بین والعصر و نصر 1",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.637875,29.58187 ]
+    },
+    "properties": {
+    "id":494,
+    "adrr":"شیراز- بلوار ابونصر شرقی- بین ابونصر 23 و 25",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.414823,29.756646 ]
+    },
+    "properties": {
+    "id":509,
+    "adrr":"شیراز- بلوار دهخدا- خیابان شمشاد- بین کوچه 5 شمشاد و کوچه 15 غدیر",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.514719,29.800483 ]
+    },
+    "properties": {
+    "id":533,
+    "adrr":"صدرا- دنا- یلدا یکم- فارابی- بین فارابی 3 و 7",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.392968,29.826909 ]
+    },
+    "properties": {
+    "id":558,
+    "adrr":"فارس- شهرستان شیراز- یاسوج - شیراز- - خیابان شهیدان زمانی- بین شهدا 6 و 8",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.391232,29.824479 ]
+    },
+    "properties": {
+    "id":559,
+    "adrr":"فارس- شهرستان شیراز- یاسوج - شیراز- آبشار- آبشار یکم",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.391232,29.824479 ]
+    },
+    "properties": {
+    "id":559,
+    "adrr":"فارس- شهرستان شیراز- یاسوج - شیراز- آبشار- آبشار یکم",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.393054,29.826682 ]
+    },
+    "properties": {
+    "id":562,
+    "adrr":"فارس- شهرستان شیراز- یاسوج - شیراز- دانش- بین دانش 4 و 6",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.370761,29.605312 ]
+    },
+    "properties": {
+    "id":566,
+    "adrr":"فارس- شهرستان شیراز",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.37615,29.460824 ]
+    },
+    "properties": {
+    "id":568,
+    "adrr":"فارس- شهرستان شیراز",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.433965,29.376371 ]
+    },
+    "properties": {
+    "id":570,
+    "adrr":"فارس- شهرستان شیراز",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.410208,29.331006 ]
+    },
+    "properties": {
+    "id":572,
+    "adrr":"فارس- شهرستان شیراز",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.317872,29.25982 ]
+    },
+    "properties": {
+    "id":574,
+    "adrr":"فارس- شهرستان شیراز",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.46593,29.534423 ]
+    },
+    "properties": {
+    "id":577,
+    "adrr":"فارس- شهرستان شیراز- بلوار شهدا- شهدا 30",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.464351,29.546311 ]
+    },
+    "properties": {
+    "id":578,
+    "adrr":"فارس- شهرستان شیراز- خیابان بهارستان کیان آباد- خیابان صاحب الزمان",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.45412,29.564409 ]
+    },
+    "properties": {
+    "id":580,
+    "adrr":"فارس- شهرستان شیراز- خیابان بهارستان کیان آباد",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.545339,29.509358 ]
+    },
+    "properties": {
+    "id":583,
+    "adrr":"فارس- شهرستان شیراز- خیابان بهارستان کیان آباد",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.49937,29.496958 ]
+    },
+    "properties": {
+    "id":585,
+    "adrr":"فارس- شهرستان شیراز- خیابان بهارستان کیان آباد",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.565837,29.42689 ]
+    },
+    "properties": {
+    "id":587,
+    "adrr":"فارس- شهرستان شیراز- خیابان بهارستان کیان آباد",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.673297,29.452902 ]
+    },
+    "properties": {
+    "id":588,
+    "adrr":"فارس- شهرستان شیراز- خیابان بهارستان کیان آباد",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.689021,29.458522 ]
+    },
+    "properties": {
+    "id":589,
+    "adrr":"فارس- شهرستان شیراز- خیابان بهارستان کیان آباد",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.582006,29.409634 ]
+    },
+    "properties": {
+    "id":590,
+    "adrr":"فارس- شهرستان شیراز- خیابان بهارستان کیان آباد",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.497862,29.642374 ]
+    },
+    "properties": {
+    "id":309,
+    "adrr":"شیراز- قصردشت- بین قصردشت 64 و 79",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.467174,29.690354 ]
+    },
+    "properties": {
+    "id":313,
+    "adrr":"شیراز- بلوار میرزای شیرازی- 7 میرزای شیرازی غربی- 7/1 میرزای شیرازی غربی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.490283,29.634156 ]
+    },
+    "properties": {
+    "id":315,
+    "adrr":"شیراز- بلوار شهید مطهری شمالی- مطهری شمالی 24",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.475002,29.634398 ]
+    },
+    "properties": {
+    "id":317,
+    "adrr":"شیراز- شهید سبحانی- سبحانی 5- علیرضایی 2",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.505451,29.640094 ]
+    },
+    "properties": {
+    "id":321,
+    "adrr":"شیراز- پل زرگری- مختاری",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.489442,29.665239 ]
+    },
+    "properties": {
+    "id":323,
+    "adrr":"شیراز- نیایش- بین  نیایش 1 و بلوار شهید چمران",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.482019,29.652831 ]
+    },
+    "properties": {
+    "id":331,
+    "adrr":"شیراز- وکلا- وکلا 15",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.466421,29.696738 ]
+    },
+    "properties": {
+    "id":335,
+    "adrr":"شیراز- بلوار میرزای شیرازی- 20 میرزای شیرازی غربی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.459999,29.644089 ]
+    },
+    "properties": {
+    "id":346,
+    "adrr":"شیراز- بلوار شهید رجایی- 10 شهید رجایی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.459999,29.644089 ]
+    },
+    "properties": {
+    "id":346,
+    "adrr":"شیراز- بلوار شهید رجایی- 10 شهید رجایی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.458942,29.643823 ]
+    },
+    "properties": {
+    "id":347,
+    "adrr":"شیراز- بلوار شهید رجایی- بین 21 شهید رجایی و 19 شهید رجایی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.45706,29.677684 ]
+    },
+    "properties": {
+    "id":353,
+    "adrr":"شیراز- بلوار دکتر شریعتی- خیابان دنا- بین 2 دنا و 1 دنا",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.455878,29.685381 ]
+    },
+    "properties": {
+    "id":363,
+    "adrr":"شیراز- پرستار- امید نوروزی- گلدشت- خیابان لادن",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.518136,29.599169 ]
+    },
+    "properties": {
+    "id":370,
+    "adrr":"شیراز- بلوار سپاه شمالی- شهید خسرو زاده- بین لاله و خسروزاده 1",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.565905,29.564863 ]
+    },
+    "properties": {
+    "id":390,
+    "adrr":"شیراز- بلوار احمد ابن موسی- بلوار ماذون قشقایی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.545422,29.583115 ]
+    },
+    "properties": {
+    "id":391,
+    "adrr":"شیراز- بلوار رحمت شرقی- بلوار ابوذر غفاری",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.553562,29.576501 ]
+    },
+    "properties": {
+    "id":392,
+    "adrr":"شیراز- بلوار ابوذر غفاری- شهید حسن پور- حسن پور 10",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.561417,29.572225 ]
+    },
+    "properties": {
+    "id":393,
+    "adrr":"شیراز- بلوار رحمت شرقی- بلوار ماذون قشقایی- بین نهضت سواد آموزی و ماذون قشقایی 7",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.533293,29.591563 ]
+    },
+    "properties": {
+    "id":403,
+    "adrr":"شیراز- بلوار رحمت شرقی- 20 متری امام حسین- امام حسین 6",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.519997,29.576468 ]
+    },
+    "properties": {
+    "id":411,
+    "adrr":"شیراز- بلوار قائم- قائم 28",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.52195,29.573149 ]
+    },
+    "properties": {
+    "id":412,
+    "adrr":"شیراز- بلوار قائم- بلوار عرفان غربی- بین اخلاق و راستان",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.527812,29.586571 ]
+    },
+    "properties": {
+    "id":414,
+    "adrr":"شیراز- بلوار قائم- محمدی- بین بلواراستعجاب و بلوارآذر پیکان",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.526702,29.584578 ]
+    },
+    "properties": {
+    "id":414,
+    "adrr":"شیراز- بلوار قائم- قائم 4- تقاطع فعال 14 - قائم 4",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.540733,29.568697 ]
+    },
+    "properties": {
+    "id":424,
+    "adrr":"شیراز- بلوار نواب صفوی- کوشک میدان 5",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.520364,29.569313 ]
+    },
+    "properties": {
+    "id":428,
+    "adrr":"شیراز- بلوار نواب صفوی- نواب صفوی 21- سجاد 1- 1/3",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.553881,29.625332 ]
+    },
+    "properties": {
+    "id":442,
+    "adrr":"شیراز- حافظ- بین سیلو و جاوید",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.564071,29.627194 ]
+    },
+    "properties": {
+    "id":447,
+    "adrr":"شیراز- بلوار هفت تنان- بین هفت تنان 21 و 23",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.569592,29.615445 ]
+    },
+    "properties": {
+    "id":449,
+    "adrr":"شیراز- بلوار هفت تنان- شهید محمدی فر",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.557952,29.618977 ]
+    },
+    "properties": {
+    "id":452,
+    "adrr":"شیراز- بلوار چهل مقام- مهاجر- بین 5 مهاجر و 4 مهاجر",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.562746,29.613038 ]
+    },
+    "properties": {
+    "id":455,
+    "adrr":"شیراز- بشیر- بشیر 5- بلوار سلمان فارسی- سفر- شهید محمدیان فرد",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.598054,29.63132 ]
+    },
+    "properties": {
+    "id":460,
+    "adrr":"شیراز- بلوار هفت تنان- شهید محمدی فر- محمدي فر 1",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.598698,29.632304 ]
+    },
+    "properties": {
+    "id":464,
+    "adrr":"شیراز- بلوار نارنجستان- 106 نارنجستان",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.579407,29.623273 ]
+    },
+    "properties": {
+    "id":473,
+    "adrr":"شیراز- بلوار نیستان- شهید فهندژ- بین نیستان 2 و 16",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.581787,29.608631 ]
+    },
+    "properties": {
+    "id":470,
+    "adrr":"شیراز- بلوار فضیلت شمالی- فضیلت",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.593877,29.59718 ]
+    },
+    "properties": {
+    "id":487,
+    "adrr":"شیراز- بلوار ابونصر غربی- پاییزان",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.608899,29.588229 ]
+    },
+    "properties": {
+    "id":492,
+    "adrr":"شیراز- بلوار ابونصر شرقی- بین ابونصر 14 و خیابان شهید ماهر",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.428582,29.730467 ]
+    },
+    "properties": {
+    "id":499,
+    "adrr":"شیراز- بلوار امام رضا- نعمت الله صادقی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.438109,29.721992 ]
+    },
+    "properties": {
+    "id":501,
+    "adrr":"شیراز- بلوار امام رضا- نعمت الله صادقی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.43865,29.722134 ]
+    },
+    "properties": {
+    "id":502,
+    "adrr":"شیراز- بلوار امام رضا- نعمت الله صادقی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.442439,29.7173 ]
+    },
+    "properties": {
+    "id":504,
+    "adrr":"شیراز- بلوار امام رضا- نعمت الله صادقی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.426124,29.742016 ]
+    },
+    "properties": {
+    "id":505,
+    "adrr":"شیراز- بلوار دکتر حسابی- علوی- بین کوچه 24 علوی و کوچه 25 علوی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.414971,29.756725 ]
+    },
+    "properties": {
+    "id":508,
+    "adrr":"شیراز- بلوار دهخدا- خیابان شمشاد- بین کوچه 5 شمشاد و کوچه 15 غدیر",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.413262,29.749617 ]
+    },
+    "properties": {
+    "id":516,
+    "adrr":"شیراز- علامه امینی- کوچه 2 علامه امینی- خیابان بهارستان- کوچه 16 بهارستان",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.519927,29.78952 ]
+    },
+    "properties": {
+    "id":525,
+    "adrr":"صدرا- خیابان پیشگامان ( آزادگان غربی)- ازادگان1- آزادگان 1/2",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.462776,29.685341 ]
+    },
+    "properties": {
+    "id":361,
+    "adrr":"شیراز- بلوار دکتر شریعتی- گلدشت 2- گلدشت",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.512497,29.599852 ]
+    },
+    "properties": {
+    "id":368,
+    "adrr":"شیراز- بلوار عدالت شمالی- عدالت شمالی 13",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.523864,29.582558 ]
+    },
+    "properties": {
+    "id":406,
+    "adrr":"شیراز- بلوار قائم- قائم 16",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.533296,29.583755 ]
+    },
+    "properties": {
+    "id":420,
+    "adrr":"شیراز- خیابان بنی هاشمی- بنی هاشمی 19",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.53249,29.57983 ]
+    },
+    "properties": {
+    "id":421,
+    "adrr":"شیراز- خیابان بنی هاشمی- مسلم ابن عقیل",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.531684,29.581543 ]
+    },
+    "properties": {
+    "id":422,
+    "adrr":"شیراز- بلوار دولت- خیابان بنی هاشمی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.562349,29.660941 ]
+    },
+    "properties": {
+    "id":441,
+    "adrr":"فارس- شهرستان شیراز- بلوار سروناز- سروناز 4",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.573595,29.609788 ]
+    },
+    "properties": {
+    "id":476,
+    "adrr":"شیراز- بلوار ابونصر غربی- نصر غربی 15- طلاب",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.593752,29.600907 ]
+    },
+    "properties": {
+    "id":490,
+    "adrr":"شیراز- بلوار سرداران- شهید قناعت پیشه- قناعت پیشه 7",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.404414,29.758914 ]
+    },
+    "properties": {
+    "id":512,
+    "adrr":"شیراز- بلوار دهخدا- خیابان شهید زارعی- کوچه 1 زارعی",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.410015,29.757177 ]
+    },
+    "properties": {
+    "id":520,
+    "adrr":"شیراز- بلوار غدیر شمالی- خیابان گل رز- خیابان سحر",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.5268,29.795977 ]
+    },
+    "properties": {
+    "id":530,
+    "adrr":"صدرا- بلوار البرز- البرز 3- رازی- تیر",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.526997,29.795869 ]
+    },
+    "properties": {
+    "id":531,
+    "adrr":"صدرا- بلوار البرز- البرز 3- رازی- تیر",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.506645,29.796869 ]
+    },
+    "properties": {
+    "id":536,
+    "adrr":"صدرا- بلوار ایران- خیابان دلگشا",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.500405,29.811548 ]
+    },
+    "properties": {
+    "id":538,
+    "adrr":"صدرا- بلوار مولانا- خیابان مولانا 7- جوانمردی 7",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.508061,29.803155 ]
+    },
+    "properties": {
+    "id":542,
+    "adrr":"صدرا- بلوار دانش- دانش سوم",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.48417,29.814873 ]
+    },
+    "properties": {
+    "id":544,
+    "adrr":"صدرا- بلوار زاگرس- بلوار مطهرنیا",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.438235,29.774344 ]
+    },
+    "properties": {
+    "id":550,
+    "adrr":"فارس- شهرستان شیراز- شیراز - یاسوج- جاده قصر قمشه- عرفان- شاهد",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.489884,29.705315 ]
+    },
+    "properties": {
+    "id":552,
+    "adrr":"شیراز- کمربندی شیراز- بلوار جواد الائمه- بین جوادالائمه 13 و محمد رسول الله",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.480097,29.70765 ]
+    },
+    "properties": {
+    "id":554,
+    "adrr":"شیراز- کمربندی شیراز- شهرک پردیس- پردیس 14",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.415436,29.791532 ]
+    },
+    "properties": {
+    "id":556,
+    "adrr":"فارس- شهرستان شیراز- یاسوج - شیراز- ولیعصر- ولیعصر 2",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.596548,29.723673 ]
+    },
+    "properties": {
+    "id":561,
+    "adrr":"فارس- شهرستان شیراز- شیراز-اصفهان",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.332627,29.824033 ]
+    },
+    "properties": {
+    "id":563,
+    "adrr":"فارس- شهرستان شیراز- جاده قلات - خان زنیان- جاده قلات",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.301992,29.554763 ]
+    },
+    "properties": {
+    "id":567,
+    "adrr":"فارس- شهرستان شیراز",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.404989,29.424348 ]
+    },
+    "properties": {
+    "id":569,
+    "adrr":"فارس- شهرستان شیراز",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.410208,29.331006 ]
+    },
+    "properties": {
+    "id":572,
+    "adrr":"فارس- شهرستان شیراز",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.502597,29.533288 ]
+    },
+    "properties": {
+    "id":575,
+    "adrr":"فارس- شهرستان شیراز- خرمشهر- خیابان قائم (پست بانک)",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.465518,29.546251 ]
+    },
+    "properties": {
+    "id":579,
+    "adrr":"فارس- شهرستان شیراز- خیابان بهارستان کیان آباد- خیابان موعود",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.560756,29.49636 ]
+    },
+    "properties": {
+    "id":586,
+    "adrr":"فارس- شهرستان شیراز- خیابان بهارستان کیان آباد",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.584066,29.406883 ]
+    },
+    "properties": {
+    "id":591,
+    "adrr":"فارس- شهرستان شیراز- خیابان بهارستان کیان آباد",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.658499,29.418487 ]
+    },
+    "properties": {
+    "id":596,
+    "adrr":"فارس- شهرستان شیراز- فجر- ولیعصر",
+    "sal":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
